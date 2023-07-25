@@ -130,7 +130,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=p9RxwPgYm7c)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=vmUQD8vrx8E)
          EOL		
         
          #j11富士山中伊豆
@@ -361,7 +361,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=EVstiuV3y94)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Np3S5E4hGlQ)
          EOL	
         
          #j32静岡市さった峠-広重の富士山
@@ -504,7 +504,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=dPqRUOj9ECE)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Y9f8h_VPavA)
          EOL	
         
          #j45十勝大橋ライブカメラ
