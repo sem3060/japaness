@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690290226/ei/0nO_ZKmJDbyW_9EP86-F4Ag/ip/20.57.41.129/id/Np3S5E4hGlQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qs7nzy.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2Sq5CklQzwJQw9yiwXHljkShkn6dM/vprv/1/playlist_type/DVR/mh/5a/mm/44/mn/sn-p5qs7nzy/ms/lva/mv/u/mvi/1/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1690267964/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgK3ksIqitm_NwMH92flvFNc6qoX8q-2mvrQzRxbLaCHwCIQDf-5GadkwRPJYRZwyq9EMDcxFax_TM9QhzQrDY9Kk0nw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhALHyubKYWBPVHR5zzHNu68MGQiqaBj_jtCz8Vh_1eiwlAiEA_IvJkSYr3HNHRprxqGGruiw3iEvBHgtlyo3za4wHM6M%3D/playlist/index.m3u8
 EOL	
 
 #j32静岡市さった峠-広重の富士山
