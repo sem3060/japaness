@@ -221,7 +221,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=THy9p2xJSek)
          EOL 
         
-         #j19津山城 鶴山公園
+         #j19鷲羽山情報カメラ(瀬戸大橋)
     - name: Get j19.m3u8
       run: |
          touch ./j19.m3u8
