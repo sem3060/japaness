@@ -34,7 +34,7 @@ j15 西武新宿駅https://raw.githubusercontent.com/sem3060/japaness/main/j15.m
 
 j18 能登鹿島駅,https://raw.githubusercontent.com/sem3060/japaness/main/j18.m3u8
 
- j19 津山城（鶴山公園）,https://raw.githubusercontent.com/sem3060/japaness/main/j19.m3u8
+ j19 鷲羽山情報カメラ(瀬戸大橋),https://raw.githubusercontent.com/sem3060/japaness/main/j19.m3u8
 
  j20 富士山平夢 https://raw.githubusercontent.com/sem3060/japaness/main/j20.m3u8
 
