@@ -174,7 +174,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=AiPyUWPPsIQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Pk8Q-69MWSU)
          EOL
         
          #j15西武新宿駅
@@ -229,7 +229,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=R7hyQ1FH4ZI)
+         $(yt-dlp --print urlshttps://www.youtube.com/watch?v=DHpL17mZdIE)
          EOL 
         
          #j20富士山平夢 
