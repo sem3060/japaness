@@ -262,7 +262,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=S6yByGMVD5k)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=cjQ03qtr_Zg)
          EOL 
         
          #j23国立天文台
