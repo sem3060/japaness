@@ -1066,8 +1066,7 @@ jobs:
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
          $(yt-dlp --print urls https://www.youtube.com/watch?v=Iv2VUE_UhRQ)
-         EOL        
-         
+         EOL                 
     - name: git add
       run: |
          git add -A
