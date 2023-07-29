@@ -958,7 +958,248 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=kfMijPgyaUU)
          EOL
          
-        
+    #j86しまなみ海道ライブカメラ／来島海峡大橋
+    - name: Get j86.m3u8
+      run: |
+         touch ./j86.m3u8
+         sudo cat >./j86.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=ubX3YSoF-ys)
+         EOL   
+         
+         #j87海王丸ライブカメラ
+    - name: Get j87.m3u8
+      run: |
+         touch ./j87.m3u8
+         sudo cat >./j87.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=-UsW0JsRZXM)
+         EOL    
+         
+         #j88道路カメラ_縁結び大橋
+    - name: Get j88.m3u8
+      run: |
+         touch ./j88.m3u8
+         sudo cat >./j88.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=gCSr3Qm3BDM)
+         EOL    
+         
+         #j89しまなみライブカメラ【EBC】
+    - name: Get j89.m3u8
+      run: |
+         touch ./j89.m3u8
+         sudo cat >./j89.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=OV0JEv6C2QQ)
+         EOL    
+         
+         #j90能登千里浜レストハウス（石川県）
+    - name: Get j90.m3u8
+      run: |
+         touch ./j90.m3u8
+         sudo cat >./j90.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=GcVWo1DOeGc)
+         EOL   
+         
+         #j91【石川県羽咋市】千里浜ライブカメラ のライブ配信
+    - name: Get j91.m3u8
+      run: |
+         touch ./j91.m3u8
+         sudo cat >./j91.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=kqkDQNe9EQI)
+         EOL   
+         
+         #j92サンポート高松ライブカメラ
+    - name: Get j92.m3u8
+      run: |
+         touch ./j92.m3u8
+         sudo cat >./j92.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=SQkm4hLoRb0)
+         EOL    
+         
+         #j93姫路城ライブカメラ
+    - name: Get j93.m3u8
+      run: |
+         touch ./j93.m3u8
+         sudo cat >./j93.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=ifEXHrCS8Oc)
+         EOL    
+         
+         #j94神戸市垂水区-明石海峡大橋
+    - name: Get j94.m3u8
+      run: |
+         touch ./j94.m3u8
+         sudo cat >./j94.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=piO8TdcF2qQ)
+         EOL    
+         
+         #j95上高地河童橋ライブカメラ
+    - name: Get j95.m3u8
+      run: |
+         touch ./j95.m3u8
+         sudo cat >./j95.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Iv2VUE_UhRQ)
+         EOL   
+         
+         #j96信州・美ヶ原2034mのライブカメラ
+    - name: Get j96.m3u8
+      run: |
+         touch ./j96.m3u8
+         sudo cat >./j96.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=qNqChUFYiVc)
+         EOL   
+         
+         #j97三浦海岸 横須賀
+    - name: Get j97.m3u8
+      run: |
+         touch ./j97.m3u8
+         sudo cat >./j97.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Jv5-71wmalA)
+         EOL    
+         
+         #j98草津温泉「湯畑」湯滝前
+    - name: Get j98.m3u8
+      run: |
+         touch ./j98.m3u8
+         sudo cat >./j98.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=GrEEoEmmrKs)
+         EOL    
+         
+         #j99久屋大通公園（名古屋市中区）
+    - name: Get j99.m3u8
+      run: |
+         touch ./j99.m3u8
+         sudo cat >./j99.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=ZBKX3TNOLb8)
+         EOL    
+         
+         #j100河津町ライブカメラ
+    - name: Get j100.m3u8
+      run: |
+         touch ./j100.m3u8
+         sudo cat >./j100.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Xn7YQxxC5R0)
+         EOL   
+         
+         #j101長野インターチェンジLIVEカメラ
+    - name: Get j101.m3u8
+      run: |
+         touch ./j101.m3u8
+         sudo cat >./j101.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=vPCkonkRRY0)
+         EOL   
+         
+         #j102東京 夜景 港区 六本木
+    - name: Get j102.m3u8
+      run: |
+         touch ./j102.m3u8
+         sudo cat >./j102.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Uf2iLWzBpUI)
+         EOL    
+         
+         #j103レインボーブリッジと東京タワー首都高速台場線
+    - name: Get j103.m3u8
+      run: |
+         touch ./j103.m3u8
+         sudo cat >./j103.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=un9Jfu1BQpY)
+         EOL    
+         
+         #j104松本城ライブカメラ#1「本丸庭園
+    - name: Get j104.m3u8
+      run: |
+         touch ./j104.m3u8
+         sudo cat >./j104.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=-NT8530xGdk)
+         EOL    
+         
+         #j105なら歴史芸術文化村
+    - name: Get j105.m3u8
+      run: |
+         touch ./j105.m3u8
+         sudo cat >./j105.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=e1nriipZ4z4)
+         EOL     
+
+         #j106阿蘇中岳・草千里
+    - name: Get j106.m3u8
+      run: |
+         touch ./j106.m3u8
+         sudo cat >./j106.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=haMy8ob7tVI)
+         EOL     
+
+         #j107ライブカメラ 白山室堂
+    - name: Get j107.m3u8
+      run: |
+         touch ./j107.m3u8
+         sudo cat >./j107.m3u8 <<EOL
+         #EXTM3U
+         #EXT-X-VERSION:3
+         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=yA2jhpk6GJ0)
+         EOL    
+              
     - name: git add
       run: |
          git add -A
