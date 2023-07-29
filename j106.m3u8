@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1690649568/ei/gO_EZIaAJOqNir4Pj_GggAU/ip/104.210.139.221/id/haMy8ob7tVI.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-q4flrnek.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/Ul2SqwOWeLjxQwTHluDunsb5j3qem68/vprv/1/playlist_type/DVR/mh/Ki/mm/44/mn/sn-q4flrnek/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363393/beids/24350018/mt/1690627449/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgH46OMQJSC-fbcE6bTwA9_0Jih2gC7JvN2o1sFd9c2SwCIEksITIs2fIkEvhkNKvFHs9NwDdillaVqVB7vxzUqtGG/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANk3A5VdmH9aKjFC2y45fWn0l_KbYHXfge4PVZifswBOAiBN7_SwX819LkfRkbuKeOPgeZL9xsi05l9_cCk6f5q33w%3D%3D/playlist/index.m3u8
+EOL     
+
+#j107ライブカメラ 白山室堂
