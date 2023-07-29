@@ -23,7 +23,7 @@ jobs:
          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
          sudo chmod a+rx /usr/local/bin/yt-dlp
       
-         #j1东京新宿	
+         #j1日本精選動態直播	
     - name: Get j1.m3u8
       run: |
          touch ./j1.m3u8
@@ -31,7 +31,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=DjdUEyjx8GM)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=owaarXChaXQ)
          EOL
         
          #j2恵比寿駅前
