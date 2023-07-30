@@ -958,7 +958,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=kfMijPgyaUU)
          EOL
          
-    #j86しまなみ海道ライブカメラ／来島海峡大橋
+         #j86しまなみ海道ライブカメラ／来島海峡大橋
     - name: Get j86.m3u8
       run: |
          touch ./j86.m3u8
@@ -1156,7 +1156,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=IQIuVqt4sj8)
          EOL    
          
-         #j104松本城ライブカメラ#1「本丸庭園
+         #j104松本城ライブカメラ#1-本丸庭園
     - name: Get j104.m3u8
       run: |
          touch ./j104.m3u8
