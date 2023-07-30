@@ -10,7 +10,7 @@ j5.静岡市さった峠,https://raw.githubusercontent.com/sem3060/japaness/main
 
 j6.静岡市富士山,https://raw.githubusercontent.com/sem3060/japaness/main/j6.m3u8
 
-j7.富士山,https://raw.githubusercontent.com/sem3060/japaness/main/j7.m3u8
+j7.富士山-河口湖駅前,https://raw.githubusercontent.com/sem3060/japaness/main/j7.m3u8
 
 j8.富士山ライブカメラ 朝霧高原 より,https://raw.githubusercontent.com/sem3060/japaness/main/j8.m3u8
 
