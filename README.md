@@ -74,7 +74,7 @@ j37-浅草寺の境内（雷門側）,https://raw.githubusercontent.com/sem3060/
 
 j38-北海道 いまの札幌／さっぽろ創世スクエア,https://raw.githubusercontent.com/sem3060/japaness/main/j38.m3u8
 
-j39-大阪の夜景 あべのハルカス,https://raw.githubusercontent.com/sem3060/japaness/main/j39.m3u8
+j39-札幌もいわ山ロープウェイ,https://raw.githubusercontent.com/sem3060/japaness/main/j39.m3u8
 
 j40.東京駅丸の内口,https://raw.githubusercontent.com/sem3060/japaness/main/j40.m3u8
 
