@@ -174,7 +174,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=z0xQWakcJxk)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Pk8Q-69MWSU)
          EOL
         
          #j15西武新宿駅
@@ -196,7 +196,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=4Ek_1UULqq8)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=9n8Fzv9a8DU)
          EOL
         
          #j17東伊豆.熱川.片瀬海岸
@@ -394,7 +394,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Pm6rYzR_bnk)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=H7Gd8K5H_6k)
          EOL	
         
          #j35富士山ライブカメラ 朝霧高原 より
@@ -482,7 +482,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=-7WIJI4N7Sk)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Mc91xfTexpA)
          EOL	
         
          #j43道頓堀ライブカメラ ２
@@ -493,7 +493,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=N42_ZMBDbMo)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=6AwV9t2X4oI)
          EOL	
         
          #j44丸沼高原-標高2000 
@@ -823,7 +823,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Pm6rYzR_bnk)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=H7Gd8K5H_6k)
          EOL
          
          #j74富山駅北から立山連峰方面
@@ -1054,7 +1054,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=evfalyfc98c)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=qjoMlqYD0U8)
          EOL    
          
          #j95上高地河童橋ライブカメラ
