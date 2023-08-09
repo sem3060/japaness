@@ -273,7 +273,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=gm-57AcpZhQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=fPgVSTj7TZc)
          EOL		
         
          #j24大阪国際空港
@@ -1054,7 +1054,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=qjoMlqYD0U8)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=LY7PKw8CvY8)
          EOL    
          
          #j95上高地河童橋ライブカメラ
@@ -1164,7 +1164,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=-NT8530xGdk)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=IulZymtkc_U)
          EOL    
          
          #j105なら歴史芸術文化村
