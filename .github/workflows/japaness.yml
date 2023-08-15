@@ -262,7 +262,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=ja-HuskdXCo)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=WtF7KGw9bSM)
          EOL 
         
          #j23国立天文台
@@ -581,7 +581,7 @@ jobs:
          sudo cat >./j51.m3u8 <<EOL
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls  https://www.youtube.com/watch?v=LE10LvORCBU)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=-eDi3YpzIUc)
          EOL	
         
          #j52羽田空港4
@@ -628,7 +628,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=5E3cNyknK3c)
          EOL	
         
-         #j56成田空港定点2
+         #j56羽田空港定点2
     - name: Get j56.m3u8
       run: |
          touch ./j56.m3u8
@@ -955,7 +955,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=kfMijPgyaUU)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=0Ype4HDFs10)
          EOL
          
          #j86しまなみ海道ライブカメラ／来島海峡大橋
