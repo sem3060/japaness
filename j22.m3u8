@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1692274168/ei/l7ndZIn3PNOX2_gP_Z6D8As/ip/23.102.141.55/id/WtF7KGw9bSM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-q4fl6nsk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f35bNqaOtZtub3SoBdldPvaMUsI/vprv/1/playlist_type/DVR/mh/6L/mm/44/mn/sn-q4fl6nsk/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246,24362685,24363393/beids/24350017/mt/1692252304/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgJXmfNsNomsczEqx8FGluDt9bRW88_Bw4Yhdg9YW_YQ8CIQDbVgUDXP2Xlmdc7vtaNZvzYbp5x9YRtwDw4GK6aDXapw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgMcd30kRpUttuqEDRZAFTe8Z64XGzvcRV26TlDOH034gCIDRnkyiiEh-KBjnnadIBnESrt2EY4tgSDCuvVrl4Ail3/playlist/index.m3u8
+
 EOL 
 
 #j23国立天文台
