@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1693489115/ei/e0PwZP6_MuepsfIP482CmAQ/ip/13.93.150.64/id/mLUE0eRORrU.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-o097znz7.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f68wrH4fkeMZE7OGnxtEmIRPkjk/vprv/1/playlist_type/DVR/mh/of/mm/44/mn/sn-o097znz7/ms/lva/mv/u/mvi/1/pl/23/dover/11/pacing/0/keepalive/yes/fexp/24007246,24363392/mt/1693466508/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgOSoi2OTiBXapCBMhyrvFF326pax0xeF6XGQ0649KWxcCIQD5P6sx2YdIvtYw_gE2-Z6qBicjuVEclcPFQmmYH0PSRw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgQDUdh4HcCMjr8FGS0i9VlDfShzQCMoECmVS0KnquFA8CID1yuEEDmxhA6XHIDQB_-9D5DFJmMUPzofuP-1a1FfJL/playlist/index.m3u8
 EOL 
 
-#j20富士山平夢 
+#j20富士山・日本平ライブカメラ
