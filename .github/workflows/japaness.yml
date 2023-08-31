@@ -196,7 +196,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=9n8Fzv9a8DU)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=9hKZQszL0To)
          EOL
         
          #j17東伊豆.熱川.片瀬海岸
@@ -229,10 +229,10 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=uS6wtnh8eho)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=mLUE0eRORrU)
          EOL 
         
-         #j20富士山平夢 
+         #j20富士山・日本平ライブカメラ
     - name: Get j20.m3u8
       run: |
          touch ./j20.m3u8
@@ -240,7 +240,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=kg_3_1iAe3I)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=6Doy_fueZ_w)
          EOL	
         
          #j21台場海浜公園
@@ -254,7 +254,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=dJZBqTeC-h8)
          EOL 
         
-         #j22羽田空港
+         #j22羽田空港 ライブカメラ
     - name: Get j22.m3u8
       run: |
          touch ./j22.m3u8
@@ -262,7 +262,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=WtF7KGw9bSM)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=N7CPD6gy-5Y)
          EOL 
         
          #j23国立天文台
@@ -482,7 +482,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Mc91xfTexpA)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=t-5NsANNmpg)
          EOL	
         
          #j43道頓堀ライブカメラ ２
@@ -493,7 +493,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=6AwV9t2X4oI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=7zV2RM37V-4)
          EOL	
         
          #j44丸沼高原-標高2000 
@@ -540,7 +540,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=dJZBqTeC-h8)
          EOL	
         
-         #j48お台場海浜公園
+         #j48木場公園ライブカメラ(広角) 東京江東区
     - name: Get j48.m3u8
       run: |
          touch ./j48.m3u8
@@ -548,7 +548,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Q6bEzzdV7g8)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=hK5Ki_rvd98)
          EOL	
         
          #j49羽田空港1
@@ -826,7 +826,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=H7Gd8K5H_6k)
          EOL
          
-         #j74富山駅北から立山連峰方面
+         #j74立山映像ライブカメラ（立山連峰東側）
     - name: Get j74.m3u8
       run: |
          touch ./j74.m3u8
@@ -834,7 +834,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=U0pljc5Pxyc)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=oKue-8zO_oI)
          EOL
          
          #j75ホテル森の風立山【ライブカメラ】藤橋より称名滝方面
@@ -1046,7 +1046,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=ifEXHrCS8Oc)
          EOL    
          
-         #j94神戸市垂水区-明石海峡大橋
+         #j94神戸市垂水区にある-明石海峡大橋
     - name: Get j94.m3u8
       run: |
          touch ./j94.m3u8
@@ -1054,7 +1054,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=LY7PKw8CvY8)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=D3AODHpsj5c)
          EOL    
          
          #j95上高地河童橋ライブカメラ
@@ -1178,7 +1178,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=e1nriipZ4z4)
          EOL     
 
-         #j106阿蘇中岳・草千里
+         #j106阿蘇ライブカメラ～阿蘇火山博物館・草千里
     - name: Get j106.m3u8
       run: |
          touch ./j106.m3u8
@@ -1186,7 +1186,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=haMy8ob7tVI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=aVGYOlIzV0A)
          EOL     
 
          #j107大阪の夜景
