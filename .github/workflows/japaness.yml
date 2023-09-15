@@ -130,7 +130,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=vmUQD8vrx8E)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=is4QSIlTbvI)
          EOL		
         
          #j11富士山中伊豆
@@ -196,7 +196,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=9hKZQszL0To)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=lBCdG7fqlnQ)
          EOL
         
          #j17東伊豆.熱川.片瀬海岸
@@ -207,7 +207,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=lKlUUfJM4vQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=22J5IvYW_2A)
          EOL
         
          #j18能登鹿島駅
@@ -386,7 +386,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
          EOL	
         
-         #j34富士山頂からライブ配信中
+         #j34ホテルマウント富士ライブカメラ
     - name: Get j34.m3u8
       run: |
          touch ./j34.m3u8
@@ -394,7 +394,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=H7Gd8K5H_6k)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Gn2CJjzY068)
          EOL	
         
          #j35富士山ライブカメラ 朝霧高原 より
@@ -482,7 +482,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=t-5NsANNmpg)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=DOPeaD39pxk)
          EOL	
         
          #j43道頓堀ライブカメラ ２
@@ -815,7 +815,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=yGBiRYtHHZk)
          EOL
          
-         #j73富士山測候所を活用する会が富士山頂からライブ配信
+         #j73【富山テレビ】北アルプス立山室堂お天気カメラ ライブ配信
     - name: Get j73.m3u8
       run: |
          touch ./j73.m3u8
@@ -823,7 +823,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=H7Gd8K5H_6k)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=CiE7qRN895I)
          EOL
          
          #j74立山映像ライブカメラ（立山連峰東側）
@@ -1054,7 +1054,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=D3AODHpsj5c)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Scz7cTGUIow)
          EOL    
          
          #j95上高地河童橋ライブカメラ
@@ -1134,7 +1134,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=vPCkonkRRY0)
          EOL   
          
-         #j102東京 夜景 港区 六本木
+         #j102お台場・レインボーブリッジ - 首都高
     - name: Get j102.m3u8
       run: |
          touch ./j102.m3u8
@@ -1142,7 +1142,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Uf2iLWzBpUI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=IQIuVqt4sj8)
          EOL    
          
          #j103レインボーブリッジと東京タワー首都高速台場線
@@ -1153,7 +1153,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=IQIuVqt4sj8)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=un9Jfu1BQpY)
          EOL    
          
          #j104松本城ライブカメラ#1-本丸庭園
@@ -1164,7 +1164,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=IulZymtkc_U)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=7afZnr2RX-M)
          EOL    
          
          #j105なら歴史芸術文化村
