@@ -122,7 +122,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=Sv9hcJ3k5h4)
          EOL
         
-         #j10秋葉原
+         #j10秋葉原ライブカメラ
     - name: Get j10.m3u8
       run: |
          touch ./j10.m3u8
@@ -130,7 +130,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=is4QSIlTbvI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=OZBck8184RQ)
          EOL		
         
          #j11富士山中伊豆
