@@ -361,7 +361,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Np3S5E4hGlQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=ZAwOiSKL4Xc)
          EOL	
         
          #j32静岡市さった峠-広重の富士山
@@ -493,7 +493,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=7zV2RM37V-4)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=_GEZTQbh0XI)
          EOL	
         
          #j44丸沼高原-標高2000 
@@ -702,7 +702,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Np3S5E4hGlQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=-LTOP8ofxn0)
          EOL
          
          #j63ケーブルテレビ富山 の定点カメラライブ配信
@@ -735,7 +735,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(yt-dlp --print urls https://www.youtube.com/watch?v=CiE7qRN895I)
+        $(yt-dlp --print urls https://www.youtube.com/watch?v=Qn0VMg6eJPw)
          EOL
          
          #j66ライブ配信　富山市内（タワー１１１屋上情報カメラ）
@@ -749,7 +749,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=ZAwOiSKL4Xc)
          EOL
          
-         #j67立山映像ライブカメラ（立山連峰東側）
+         #j67海越しの立山連峰v4
     - name: Get j67.m3u8
       run: |
          touch ./j67.m3u8
@@ -757,7 +757,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=oKue-8zO_oI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=UjoYiY1CUnk)
          EOL
          
          #j68丸沼高原-標高1500m
@@ -823,7 +823,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=CiE7qRN895I)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Qn0VMg6eJPw)
          EOL
          
          #j74立山映像ライブカメラ（立山連峰東側）
@@ -834,7 +834,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=oKue-8zO_oI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=RDGoMlUSvws)
          EOL
          
          #j75ホテル森の風立山【ライブカメラ】藤橋より称名滝方面
@@ -1054,7 +1054,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Scz7cTGUIow)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=8YlBqyCPKrM)
          EOL    
          
          #j95上高地河童橋ライブカメラ
