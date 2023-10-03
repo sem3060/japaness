@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1696302453/ei/FTEbZfOhGtuysfIPi86DqAM/ip/13.87.244.46/id/owaarXChaXQ.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-o097znz7.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f9IhuiY8Z4Lh6XfXZ5k5B77ecqM/vprv/1/playlist_type/DVR/mh/8U/mm/44/mn/sn-o097znz7/ms/lva/mv/u/mvi/3/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1696278870/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAO_xzIijFOpVTlWHoWX6ayzbIterf-ee4F8KzVbr8YG_AiB_5ZGuivunxMtLw-0xqB7TRMWGPG6BfAuLKttNTUu0YA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgGyICn22IWppWWpx-TQ3JrzlLjyezO6tXu59gGwCvbV8CIAElFLQsiSCWKEtTMtGDLIGEtu9p0KgRr8QD9r81VdZf/playlist/index.m3u8
+
 EOL	
 
 #j29富士山・日本平ライブカメラ Mt.Fuji
