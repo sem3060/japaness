@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1696443394/ei/olcdZZ_QKKKf_9EP8PS9qAU/ip/172.177.6.17/id/8YlBqyCPKrM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qs7nsk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f9Px5wbTiwwrMQU8v_znkVwoYhY/vprv/1/playlist_type/DVR/mh/u2/mm/44/mn/sn-p5qs7nsk/ms/lva/mv/u/mvi/1/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1696418304/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIhAMcVvysLUvST2krh04F9fK86aKKna94sFz_ah2oliF4qAiBdcHCMpT22xunsyMb4mOLveopLaHTaa3wzD5mcGnFm8Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgdKROwyXRmOUBPEk8cOAGBeKViDNENmKiFUIa6CHyKjwCIEoM3vo0Al7xk58IwKvRt4ywCRHttyv8BRpKLDDw0pkE/playlist/index.m3u8
+
 EOL    
 
 #j95上高地河童橋ライブカメラ
