@@ -23,7 +23,7 @@ jobs:
          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
          sudo chmod a+rx /usr/local/bin/yt-dlp
       
-         #j1日本精選動態直播	
+         #j1精選動態直播-100個世界各地美景
     - name: Get j1.m3u8
       run: |
          touch ./j1.m3u8
@@ -31,7 +31,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=owaarXChaXQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=3dEfax7mkbE)
          EOL
         
          #j2恵比寿駅前
@@ -130,7 +130,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=OZBck8184RQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=tJvphoSkNPg)
          EOL		
         
          #j11富士山中伊豆
@@ -328,7 +328,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=owaarXChaXQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=58Ec7cDnNVY)
          EOL	
         
          #j29富士山・日本平ライブカメラ Mt.Fuji
@@ -837,7 +837,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=RDGoMlUSvws)
          EOL
          
-         #j75ホテル森の風立山【ライブカメラ】藤橋より称名滝方面
+         #j75北アルプス立山室堂お天気カメラ ライブ配信
     - name: Get j75.m3u8
       run: |
          touch ./j75.m3u8
@@ -845,7 +845,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=Xm-NEujb3dg)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Qn0VMg6eJPw)
          EOL
          
          #j76チューリップテレビ-ニュースライブ
@@ -944,7 +944,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=PLMJP_p5T54)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=FR1VZg_DQFk)
          EOL
          
          #j85新潟県立紫雲寺記念公園 オートキャンプ場からのライブ配信
@@ -1043,7 +1043,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=ifEXHrCS8Oc)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=rdhW5_wYkAM)
          EOL    
          
          #j94神戸市垂水区にある-明石海峡大橋
