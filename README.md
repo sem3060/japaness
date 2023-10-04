@@ -1,4 +1,4 @@
-j1.日本動態直播精選	,https://raw.githubusercontent.com/sem3060/japaness/main/j1.m3u8 
+j1.100個世界動態即時影像,https://raw.githubusercontent.com/sem3060/japaness/main/j1.m3u8 
 
 j2.恵比寿駅前,https://raw.githubusercontent.com/sem3060/japaness/main/j2.m3u8
 
