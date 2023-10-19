@@ -89,7 +89,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=OrGQEkkEkx4)
          EOL
         
-         #j7富士山
+         #j7富士山ライブ夜の部
     - name: Get j7.m3u8
       run: |
          touch ./j7.m3u8
@@ -97,7 +97,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=h6Z9v-qqHl8)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=9-an4ASjx6c)
          EOL
         
          #j8富士山ライブカメラ 朝霧高原 より
@@ -196,7 +196,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=lBCdG7fqlnQ)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=JRWaN0dPmnM)
          EOL
         
          #j17東伊豆.熱川.片瀬海岸
@@ -240,7 +240,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=6Doy_fueZ_w)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=uqB3pvAqGIw)
          EOL	
         
          #j21台場海浜公園
@@ -339,7 +339,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=6Doy_fueZ_w)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=mAPc7C7P7hI)
          EOL	
         
          #j30河口湖からの-富士山ライブカメラ
@@ -493,7 +493,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=_GEZTQbh0XI)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=ViQ6TQouaPo)
          EOL	
         
          #j44丸沼高原-標高2000 
@@ -683,7 +683,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=RiHSzRu4kLw)
          EOL
          
-         # j61富士山・日本平ライブカメラ Mt.Fuji
+         # j61ホテルマウント富士ライブカメラ
     - name: Get j61.m3u8
       run: |
          touch ./j61.m3u8
@@ -691,7 +691,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=6Doy_fueZ_w)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=Gn2CJjzY068)
          EOL
          
          # j62【富山テレビ】お天気カメラライブ配信
@@ -903,7 +903,7 @@ jobs:
          $(yt-dlp --print urls https://www.youtube.com/watch?v=rkWkJqXO2rM)
          EOL
          
-         #j81ライブカメラ 白山室堂
+         #j81杖突峠 峠の茶屋ライブカメラ
     - name: Get j81.m3u8
       run: |
          touch ./j81.m3u8
@@ -911,7 +911,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=yA2jhpk6GJ0)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=yFETEyuKvBY&list=TLPQMTkxMDIwMjNTSG5yEEKnZA&index=2)
          EOL
          
          #j82鳥羽マリンターミナル-ライブ配信
@@ -966,7 +966,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=ubX3YSoF-ys)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=nsZQ4QkloHg)
          EOL   
          
          #j87海王丸ライブカメラ
@@ -1054,7 +1054,7 @@ jobs:
          #EXTM3U
          #EXT-X-VERSION:3
          #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-         $(yt-dlp --print urls https://www.youtube.com/watch?v=8YlBqyCPKrM)
+         $(yt-dlp --print urls https://www.youtube.com/watch?v=QfccP2_Twa0)
          EOL    
          
          #j95上高地河童橋ライブカメラ
