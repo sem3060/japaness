@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1697750871/ei/90oxZdS0GOSM_9EPgNKeoAo/ip/20.185.55.113/id/ViQ6TQouaPo.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-p5qddn76.googlevideo.com/spc/UWF9f5hKmjc6-BrXHGLqSgekWkKwqkU/vprv/1/playlist_type/LIVE/initcwndbps/822500/mh/ct/mm/44/mn/sn-p5qddn76/ms/lva/mv/m/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1697728839/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AGM4YrMwRQIhALVtlZV5fz__3prOIoU3xtZBEozqqOxKjR8vC3hv8VQEAiA-XY4DJTCmBQUY2EoiuObcFbVPwbUQSU-Bc2rV9tWMCQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAPgr0V-8IxmQbqmiCxlsO3tWsFL5wlOkCp4m2CQt4_URAiEAul62XkVCI6QcuEVN7Qt-g8tb6VFXwP1qI8ZViZNLFx0%3D/playlist/index.m3u8
 EOL	
 
 #j44丸沼高原-標高2000 
