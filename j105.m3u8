@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698289835/ei/S4Q5ZbuGBrH_2_gPnv660Ak/ip/13.86.22.106/id/e1nriipZ4z4.3/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr5---sn-q4fl6n6s.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f-xI6mN_cMaTuWf0sxyQCDYA3bMMhW8I8As7aQ/vprv/1/playlist_type/DVR/initcwndbps/1027500/mh/4x/mm/44/mn/sn-q4fl6n6s/ms/lva/mv/m/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698267889/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIhAK_3ePLTgMIblvM1fo-zpDyJjpBLrBZEBUKUhPAZYnTjAiArqWsqpw6nLcCzLXjJiBi8Q5whXk1WFihJpAKFi-4I7Q%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgfPxGanNG6W2BHKySr2JHCfM3iXXSrz4zHHEnxo1bPxQCIGxWTIHQvspLBgO3D32px6q9A2d7RBBkBkm5oR9pSTyE/playlist/index.m3u8
 EOL     
 
 #j106阿蘇ライブカメラ～阿蘇火山博物館・草千里
