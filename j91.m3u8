@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698302103/ei/N7Q5ZYTcAovoir4P7_yDqAw/ip/23.102.141.1/id/kqkDQNe9EQI.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr4---sn-q4flrnsl.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f3U-3HbQsghxsxuQkz8O_z2No6c/vprv/1/playlist_type/DVR/mh/ta/mm/44/mn/sn-q4flrnsl/ms/lva/mv/u/mvi/4/pl/18/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698279232/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIgb2ycKkCe6cwICkz_e64UMkdB4NdSZXeidnO4DX9AFRICIQC05g5iMaViNPVCyiYdxMB5b0oJxJ5v2u1z-f3ev2bWRQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgUsrHDyc0JZj0v5-5ynRVWxyHxucB7ERsy7sB8-9lWk4CICFcR1whiCi2asBfKhVBNFbkBfo7_mdD2zzixFJvqS_m/playlist/index.m3u8
 EOL   
 
 #j92サンポート高松ライブカメラ
