@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698333046/ei/Fi06ZaqEMbKh_9EPgpSkqAk/ip/104.45.204.209/id/SQkm4hLoRb0.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-p5qddn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fyLNG5tB9MomJNrfgQTmlMYR0x0/vprv/1/playlist_type/DVR/mh/S-/mm/44/mn/sn-p5qddn7z/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698310929/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRAIgFz-Z9OxBH-OLjJT1yzWGtYDa9jSHtZW7KSE3lAabE4sCIBSy4QF901WQuZELaUBiRx6rI1LlFhDtbY4imBJNkzID/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIgHlFtlTys5mZ8FGzEXxw3bkvlqr_NCu_hg0w5yFmXRicCIQCa_rjHaEpVaY2TciGCOuAnTz03AoiTMhgzSEgoCN0krA%3D%3D/playlist/index.m3u8
 EOL    
 
 #j93姫路城ライブカメラ
