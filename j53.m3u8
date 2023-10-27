@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698408691/ei/k1Q7Zb3DIcKl_9EPz_GKkA8/ip/104.45.205.192/id/F0mMIRKUjA8.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr5---sn-p5qlsn7l.googlevideo.com/spc/UWF9f4xhCczBsMydoh32q7GfYEd8yxrT97uuKZo3Rg/vprv/1/playlist_type/LIVE/mh/dl/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/5/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350017/mt/1698386216/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AGM4YrMwRAIgPVsZoCxMDEkWGqdhC-7yY4GLjL_ZCfjvScomkFOCe58CIFBvqmj1BbWtGTKKsjs6IT6zF4_0fKxreeaQzbbFA-Ep/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgX707KrNewWnX9RBCal2Syt8jbJ6TSxMPpkK6w_MHpzsCICQeCJGyqKHmsPM1udvJ9vTI_ug8NwBy7Adu8kw5BxdM/playlist/index.m3u8
 EOL	
 
 #j54羽田空港 機坪反向
