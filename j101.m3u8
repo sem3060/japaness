@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698505822/ei/_s88ZehBh5OW7w-444uICg/ip/40.77.50.171/id/vPCkonkRRY0.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4fl6nsk.googlevideo.com/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/An/mm/44/mn/sn-q4fl6nsk/ms/lva/mv/u/mvi/3/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698481242/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRQIgEd01tHJUp2tvjvveZ2DIEbcHCPGEWjugZT4c1POookUCIQDhWSELaK2jcofZcLjyUjeO-Xa1qXzwN1CRpky4sDiAvA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgWBziCpDPt2f-drjr8BldQA884aG7xs9DiRyKHhWTHz0CIDO77v2Z7cWHZzB-vBTxJ_nULjOtPUKq6BRC4r3fh4BQ/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698505822/ei/_s88ZehBh5OW7w-444uICg/ip/40.77.50.171/id/vPCkonkRRY0.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr3---sn-q4fl6nsk.googlevideo.com/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/An/mm/44/mn/sn-q4fl6nsk/ms/lva/mv/u/mvi/3/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698481242/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRAIgPn5S1GZ4of_jiS-elNPRIbmmDnJ1xb2LqvY9iT_QfU0CIH5qxq_dWsb_DgUyBFO9n6_DuEZ_yrnjaa-yL-C0ZJNe/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAI4SCc4g4H7mZf0_sOAS7BzoS67jGYIMo6V9Cijrl2xMAiA0uKokjRmcx1Zh0V8dulrFoyLNX4wtr6sESIVx9IceTw%3D%3D/playlist/index.m3u8
 EOL   
 
 #j102お台場・レインボーブリッジ - 首都高
