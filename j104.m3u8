@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698538312/ei/6E49ZfrnAais_9EPyMez6AY/ip/40.75.74.32/id/7afZnr2RX-M.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-p5qddn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fzH8BuvrnDhAFYcdZQKQOW6iXrI/vprv/1/playlist_type/DVR/mh/4e/mm/44/mn/sn-p5qddn7k/ms/lva/mv/u/mvi/4/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698516413/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRAIgLvD9c3kh3BXsmHuKXDplSrCud0LYA00e1jE-xv852fICIEe4GVG_JxcsEQcq-2G-KYy2q9qn7TSG6gG3UQU20-DU/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAMBjeGVBXtu4shbSj9-sTgjtacTJn8XJdLnOGhT493eJAiBadjvcr-Kw_gniqUp91SZM32i4nmEF8vB0x2Oc-6omrA%3D%3D/playlist/index.m3u8
 EOL    
 
 #j105なら歴史芸術文化村
