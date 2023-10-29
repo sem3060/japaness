@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698613783/ei/t3U-ZYqsEYL08gSvtq94/ip/20.57.68.142/id/QfccP2_Twa0.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-p5qlsnd6.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/W3/mm/44/mn/sn-p5qlsnd6/ms/lva/mv/u/mvi/5/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698591825/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRgIhAMdRm21tcDL4DE-DdtVd1RUaRsyGmY_LeQDmLiL2OfvfAiEAnVM0YeLBqYM-W5lUiGvICWp_E08gYTOQNfUBH89ubGQ%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIgfRvrcrZBMSI9Wnv2Wudpz7C3tCaSwOnDhd82Iwpptg8CIQCV_ZtC5y7c0x9kF08wfAEn4xAFP0cIl9rLSmJm3MMSuQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698613783/ei/t3U-ZYqsEYL08gSvtq94/ip/20.57.68.142/id/QfccP2_Twa0.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr5---sn-p5qlsnd6.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/W3/mm/44/mn/sn-p5qlsnd6/ms/lva/mv/u/mvi/5/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698591825/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRQIgAJfpWHnrpBRE1KaiwkuG1N9sfZoa7b4TuQIUZlws9J4CIQDQvVIM46vnYK2fWH48576s5lmka3wT_jU_pieOtVGhnA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAJD1MOa3un2J0ey6I0ZQZaCHlWrHmsIJ1hsBDBIt6fz4AiEAsJA0VDur5anWAEAm_8P7tOC_AmR8H7Mc8zJp0aL1FdA%3D/playlist/index.m3u8
 EOL    
 
 #j95上高地河童橋ライブカメラ
