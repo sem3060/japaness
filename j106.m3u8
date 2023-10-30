@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698668072/ei/yEk_ZbHKAoiZ2_gPyLOP8A8/ip/13.84.8.153/id/aVGYOlIzV0A.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-q4fl6nss.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1228750/mh/bp/mm/44/mn/sn-q4fl6nss/ms/lva/mv/m/mvi/3/pl/15/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350017/mt/1698646122/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRAIgJuc37JMeVzymwLKZCKLkL3SjzUlYVr7x8BhuyEKl6HYCIHgdjhNVgSJRS3fYH5y0S3spBvpmmft7EDjdVlTRFvkj/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgQJ2hngx2n6A0DI9Dd_pKigD-mA48ASi6s-2ZOKYMPjACIBpCKSM_uCiTUxXgFqLrZW-lwVNGTk2KVW2vfP3AvrB7/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698668072/ei/yEk_ZbHKAoiZ2_gPyLOP8A8/ip/13.84.8.153/id/aVGYOlIzV0A.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr3---sn-q4fl6nss.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/initcwndbps/1228750/mh/bp/mm/44/mn/sn-q4fl6nss/ms/lva/mv/m/mvi/3/pl/15/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350017/mt/1698646122/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRQIgchWdp_aMPtqttDKmW91--vdDfuIJ2cxAtbbUJiBW6ZsCIQDRebE5jD4-4SFReWSpJJgrTZPdveOlnNqwpC1orh5VkQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgVMLQchCTktC6P6_yiudiGbPInfLV_VlP6169Jo-6fdUCICth4MvF2KicKxJ7OaUqVzTexUIM16k9TKCCO1c7Azcq/playlist/index.m3u8
+
 EOL     
 
 #j107大阪の夜景
