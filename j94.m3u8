@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698668035/ei/o0k_ZfynMf7-2_gPr6aWoAs/ip/13.84.8.153/id/QfccP2_Twa0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-q4fl6n66.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f5HJ2uF4GPObLc8OGWEeBoqlsVYXt-7Uh8K7kQ/vprv/1/playlist_type/DVR/initcwndbps/1228750/mh/W3/mm/44/mn/sn-q4fl6n66/ms/lva/mv/m/mvi/5/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698646122/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIgYudvHqkjssfWQi99XbBTWK8LM7Ct7O819aP85Hs8vbwCIQDf7_Bw6G5xmEwldLA9wbvLWQJeviLh1wRbU8HBAJ4djg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhANGJA9pynfQvxC7dJeodl-9oDlgiByNFTr57bf1u4x-1AiBHegrC5PJJuI38G5w7tA_cNBs6_cxYZzFI3VlQ7l7xCw%3D%3D/playlist/index.m3u8
 EOL    
 
 #j95上高地河童橋ライブカメラ
