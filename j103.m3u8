@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698700316/ei/vMc_ZcLGDZ2xlu8P3dKY0A8/ip/13.66.10.114/id/un9Jfu1BQpY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4fl6nz7.googlevideo.com/spc/UWF9f5R_5K-C-gXhbchU_nPWMd96L7g/vprv/1/playlist_type/LIVE/initcwndbps/2128750/mh/rc/mm/44/mn/sn-q4fl6nz7/ms/lva/mv/m/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698678275/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AGM4YrMwRQIgNH0CnmNhnv3hKl-HL5jGHmVvXcHypMNctOI3Pb-oWGoCIQC1ZrAXu4g2OUpsBk961Xs3l2UUMAI5jt1JyjM4PxKWaw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAKCyMjSoB1aV2lY6ZK1N4g6dX9YbjWgA7D0cdbWVEHf0AiArKZx5ZUO99lpwiuwmkC4F97qmG7cSYcod_VdsMTYKWQ%3D%3D/playlist/index.m3u8
+
 EOL    
 
 #j104松本城ライブカメラ#1-本丸庭園
