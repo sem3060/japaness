@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698797559/ei/l0NBZcWLO_KW_9EPk_KM4Ao/ip/20.42.16.66/id/ZBKX3TNOLb8.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-p5qddn7z.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f_RduwS7ILDuDSFDPflVmj7QM1k/vprv/1/playlist_type/DVR/mh/on/mm/44/mn/sn-p5qddn7z/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698775459/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRAIge1Xstggk9PH-_ioJNr1MGbUlG7eFuzKE7UJHc56mnhgCIFheZMeetAlgb17xZEm87pkDpN_2ocQIK6XlitnNL7ic/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIgFilD9a0iS9pQ6Je0hcrqdU5Tlp8Tsj-fD-gCsUYR44kCIQDIgPZ6p3IYe26gLx_ul6jW1VoGAiDiQcVytoBZwGOmhQ%3D%3D/playlist/index.m3u8
 EOL    
 
 #j100河津町ライブカメラ
