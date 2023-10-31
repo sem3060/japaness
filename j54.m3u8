@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698721672/ei/KBtAZfHSKZalir4PrqmZCA/ip/40.83.51.17/id/DLsYMox4rCY.7/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4fl6nss.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Fj/mm/44/mn/sn-q4fl6nss/ms/lva/mv/u/mvi/1/pl/18/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698699065/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRQIgIIvr98cFbY08ZfLdud7QOuxhgMgHrhN3H7Nf2cVB-k0CIQDgl5QYuNeog3sCmS2bRJH_ZE5Q2UkvS59nreQzvx76iw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhANEu7x6r4XeXfy4xHVTpTxUwUb1Vs1nPzFJrQNf9daawAiEAtQx5oIONWYNrRQiA6VHwXsRcY5jhkqcbuvFvG7J2s7s%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698721672/ei/KBtAZfHSKZalir4PrqmZCA/ip/40.83.51.17/id/DLsYMox4rCY.7/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr1---sn-q4fl6nss.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Fj/mm/44/mn/sn-q4fl6nss/ms/lva/mv/u/mvi/1/pl/18/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698699065/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRgIhAMAHBuhuG_EIhPtTC3k17ml3jIN-bVNk0aalCdXmHILxAiEAk3pZggJ6Z-fGSBuFAWDD0KlgaQcawSsFXL1-rAQ-et8%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAI6BgUIbewAu4C6aZRvxQoeeG0wcCQk0pR9lnvRvIpluAiEAiQuxkW3IkBqU31PGmjRBlAJAaAeFWr-wOMjdAIBEmPA%3D/playlist/index.m3u8
+
 EOL	
 
 #j55成田空港定点1

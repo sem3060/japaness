@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698721778/ei/khtAZc-4C827ir4PvvSP-AI/ip/40.83.51.17/id/gCSr3Qm3BDM.3/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-q4fl6nd7.googlevideo.com/vprv/1/playlist_type/LIVE/mh/Vg/mm/44/mn/sn-q4fl6nd7/ms/lva/mv/u/mvi/3/pl/18/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698699065/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,vprv,playlist_type/sig/AGM4YrMwRQIgPOquLy6ZqGYtYQEFS5QXERMLT_Ejm2GmdTuMxEmLNpUCIQD_E0FFdY4f9mLzZ1p3DY-7KOexBZo1rRAowCa2k_Ei1g%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAL595oex5m1oCIwIZOFeEYsKZTwIaG3dzFHwGc-2yaN8AiEAxxJ9Y-6tyQ1BfP5f1FPUGpx56FpWJDVCqiGyPGSDdnI%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698721778/ei/khtAZc-4C827ir4PvvSP-AI/ip/40.83.51.17/id/gCSr3Qm3BDM.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr3---sn-q4fl6nd7.googlevideo.com/vprv/1/playlist_type/LIVE/mh/Vg/mm/44/mn/sn-q4fl6nd7/ms/lva/mv/u/mvi/3/pl/18/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698699065/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,vprv,playlist_type/sig/AGM4YrMwRAIgWUrCLIecaayKDOfSxBGN41hjpAOFTVgTRdCLcTZQD8sCIHXOUl95v-F7TjJHm_EjkMkmihW-qQtFTLh2VuohFNXS/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAPuQaeJl7gN7o9-5ChX7UkYcdk31V_8d4mx6QA_8curBAiANPBE0l4akGm9OfEZyQnZp1taEx6iK_kpEneV53tbkUQ%3D%3D/playlist/index.m3u8
+
 EOL    
 
 #j89しまなみライブカメラ【EBC】
