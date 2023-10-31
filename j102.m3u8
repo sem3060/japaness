@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698797567/ei/n0NBZbK2HKep_9EPt8Sz6Ao/ip/20.42.16.66/id/IQIuVqt4sj8.2/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-p5qlsn76.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/_c/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/5/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698775459/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRAIgTdNq5O2m-y1HyrOjRAQ7f1aOQf_2bdANvgk4bHFD8TICIAIoDNRDbEB0qdxt8JUN0kXMQTfem0sYfKhLsl91Hrs-/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAMTkPJv6FLhHgIa1-Q3GKiuFw3NmprjZ79QUaVRPnzaeAiEA8s9-RjrmYAs_8ii2adEoZD4d19gGvyMrGepFyg17JTI%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698797567/ei/n0NBZbK2HKep_9EPt8Sz6Ao/ip/20.42.16.66/id/IQIuVqt4sj8.2/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr5---sn-p5qlsn76.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/_c/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/5/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698775459/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRgIhAIT2jsNdbcaCEbhlPldvqlMoV1bGKEdGrHdTd065KraOAiEAxp7VGlbwj1ucd9n3k7RfrjmxD0Sps_8iDhDIdzTTYC0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIgXsXCG5ihRQ7eSx17HQNTSNsV_tjFEHfjK3nnlUAB7-8CIQDIV4IPY5FDoZdxfyFnpPbLR2aTjuo62PwPB5DRsMqvtw%3D%3D/playlist/index.m3u8
+
 EOL    
 
 #j103レインボーブリッジと東京タワー首都高速台場線
