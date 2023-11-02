@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698937874/ei/sWdDZYjsPIf-kgac5YaoCw/ip/13.87.244.145/id/rdhW5_wYkAM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-o097znss.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fxhCvYa2ik24o6Hvyuh6qytci4Q/vprv/1/playlist_type/DVR/mh/LU/mm/44/mn/sn-o097znss/ms/lva/mv/u/mvi/2/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1698915919/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AGM4YrMwRQIhAIhL2wbHiHrVELXMiwl1S1tJuQKS479mFdZARjJr_V9_AiBbELjtBzGAq3qgHWv8C6hU8E4311Z6qXmN6iOJoyedtA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRgIhAOEUoAFePHJF9QYtJI7Tzdlg9d05c8xfX86eN_GDMPxdAiEAzH9_xPlodPEloFjgEFTESiongRDgSi2kLDIizDmD5KE%3D/playlist/index.m3u8
 EOL    
 
 #j94神戸市垂水区にある-明石海峡大橋
