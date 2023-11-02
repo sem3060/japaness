@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698980994/ei/IhBEZaieKoLiir4P8syQyAI/ip/70.37.167.46/id/nsZQ4QkloHg.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-q4fl6n6s.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Qu/mm/44/mn/sn-q4fl6n6s/ms/lva/mv/u/mvi/5/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698958984/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRQIhAMCNkgJqteJf_IqM88fZv5khSwdsJBAbrROOouhTajIsAiAfhHRiGIKD3esjhhv6-L9v3cqCpnDtyr1fvtz4VHCK7Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRQIhAPqiQOPVVajrix5K20EoXxr4sOzKgjnYyUanoQUUJHJuAiAfiUZhrH4g1qxElpkOKF8X_T78K7IiLOU2fCYPW1SYJQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698980994/ei/IhBEZaieKoLiir4P8syQyAI/ip/70.37.167.46/id/nsZQ4QkloHg.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr5---sn-q4fl6n6s.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Qu/mm/44/mn/sn-q4fl6n6s/ms/lva/mv/u/mvi/5/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698958984/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/AGM4YrMwRAIgV33aDxxQXNDn8ilwr3LSjZJcPqzT7M6rh7abLNW1foICID7hykrw6BcQiBOE97n_2rtly8NsyzbTowiB6DDiX92i/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AK1ks_kwRAIgEqQH-jb6DoD8Z7FTMPxx1KS2eiX6XIVDQ2Rb1tsBJkUCIFZOHtZshPt-ROGe0FtY-WjmTV9XoiHXY5_1_XvWHfmw/playlist/index.m3u8
 EOL   
 
 #j87海王丸ライブカメラ

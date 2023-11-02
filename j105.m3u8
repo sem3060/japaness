@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698970374/ei/puZDZfPKIdSw8wTs0ou4Cw/ip/172.176.224.218/id/e1nriipZ4z4.3/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr1---sn-p5qlsn7l.googlevideo.com/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/4x/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/1/pl/13/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698945853/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRQIgKISbgdIEe9-4L8DPJBhb6NSsEUXl2poPG9z-pdu4SGYCIQDebe6nIgyMdchfsEre7fF-XpT7msg1144ria1jFCYVNg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgezvqg_hYc8oRW0oUKAkjij56IxTrnche2q9sztxX-FkCIQCpGHPlgfjyJuw_3-nsCRy0adT8tmd7ItP2toYJ3qgVMQ%3D%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1698970374/ei/puZDZfPKIdSw8wTs0ou4Cw/ip/172.176.224.218/id/e1nriipZ4z4.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr1---sn-p5qlsn7l.googlevideo.com/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/4x/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/1/pl/13/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698945853/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRQIgNh7Lga4nwrVeaewTi1114_E4GtfbFeWDxD3nqjc2rzYCIQCkHPvN8ksfKHAwW-pt4-BMxAqVjLNwkWLv3JC3qtoxdA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgVF1ewhf0CHQlNVCArvSUwrok53iu1YHXldGoXn_vB58CIQDyXb_v9ZmDZr0R94wZ9TueOiUh2aUNn0DAJB0NGGxqSw%3D%3D/playlist/index.m3u8
+
 EOL     
 
 #j106阿蘇ライブカメラ～阿蘇火山博物館・草千里
