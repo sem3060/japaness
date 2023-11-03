@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699002673/ei/0WREZcuPMpCKsfIPyrSE-A4/ip/4.227.0.67/id/-UsW0JsRZXM.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/hls_chunk_host/rr8---sn-ib.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/uZ/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/8/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698980207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIgDX0nRpVrf0NerpKBSI6RyM6BLqCA4-Hz66sm4_CEdZECIHRDTEyfBnYWtEeDx9DLCI0FjXeGpTrq2PlR0TnR4-Df/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAJ518Y58bEISfX54rAnRPRZBc8BOzM-LTtXCJtCJ7-wRAiApAPpoDtylvETaXlRVaPNFuF0iVVB6wbLOVPy5bGobRA%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699002673/ei/0WREZcuPMpCKsfIPyrSE-A4/ip/4.227.0.67/id/-UsW0JsRZXM.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr8---sn-ib.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/uZ/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/8/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1698980207/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAMx01ssjyKsb2p6Rfh8tGabx2rJhgdf0z4ZKW-v74KvlAiEArZYEFGn1GInONs5_MGJk7hqaoJR13NTATYAwjYU550w%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgCGWx683l7G4Pfywr4cZdEDXdCOt17FeO0OtwOnCikeUCIQClNqbD3qXvUsus1RCz4FmlBz_Nly3F_NRQwyUcOWSNWQ%3D%3D/playlist/index.m3u8
 EOL    
 
 #j88道路カメラ_縁結び大橋
