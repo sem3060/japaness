@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699153740/ei/7LJGZcLwEM3BsfIP3ti-kAU/ip/13.88.98.127/id/rdhW5_wYkAM.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-n4v7sns7.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/LU/mm/44/mn/sn-n4v7sns7/ms/lva/mv/u/mvi/1/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699131035/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAJYr8QmR6txQiypriCWzrI5tSRWxscs9lPITVAdb62wpAiEArrHiIMAoB3otapgqUhrR6TeoYMFfANk5bGxoO85F7Mc%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAOvAedZ_bjwSuZRv4Euq-_mXE1B4w9kFWjwfaXVfZaX6AiEA8ehRHe_FXrgcNgLCpdCtgXtvZPXSGgIVGYLslcAmsi4%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699153740/ei/7LJGZcLwEM3BsfIP3ti-kAU/ip/13.88.98.127/id/rdhW5_wYkAM.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr1---sn-n4v7sns7.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/LU/mm/44/mn/sn-n4v7sns7/ms/lva/mv/u/mvi/1/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699131035/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRQIhAPgw-AvsgWAQuM1Z_amIm3rf0PaQgjxVjdNejshLicbvAiApFK5NDGpRGAxRX4miT-34hbgNUwEMSUPSkp2-YscpKg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgBjs1kOM3ZAU7XdrPxl_X-pAaefpFTzpFGsIYiN_-6YECIGNNDMIBSPqQZQlMWM9uGh1JiFxyhsNWC3LuZFvvYmop/playlist/index.m3u8
 EOL    
 
 #j94神戸市垂水区にある-明石海峡大橋
