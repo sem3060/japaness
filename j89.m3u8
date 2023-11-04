@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699079774/ei/_pFFZYqNDLaW2_gPxpyTuA4/ip/40.84.221.129/id/OV0JEv6C2QQ.3/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-q4flrnez.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Fj/mm/44/mn/sn-q4flrnez/ms/lva/mv/u/mvi/1/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350017/mt/1699056880/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAK0cc5Ip3fmJeUvGb-EMVbLz7pomvxbY-svjy1B2YlTrAiEA0Cv70l3SMXASULHDdZ0WvBf0tnivoFm0qD5VWfytJso%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgavaLPg70mz24oCynM53R8npxMNCDgcWdc7t_gX2kvDoCIF-9xuit2QtYaceShwpeaAVuBgwS9JyPD3-h09KM8pvm/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699079774/ei/_pFFZYqNDLaW2_gPxpyTuA4/ip/40.84.221.129/id/OV0JEv6C2QQ.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr1---sn-q4flrnez.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Fj/mm/44/mn/sn-q4flrnez/ms/lva/mv/u/mvi/1/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350017/mt/1699056880/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIgLq7M8CQVizjwDJ-GIi6BQt9jZJ62oyxBQt-aExHyVc8CIEe7iy2820ygS9CP8rQ7m4_4TXaua7XHkrkDsZpIi9cg/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgAUjIqVMPCbRdbiPWp1Srx5rwq4d-ndNygnkWDov_CtUCIGi_TgIDwvVrwtNhrTzuk2rwAWEl_mlbAbzph1CbQ_pA/playlist/index.m3u8
 EOL    
 
 #j90能登千里浜レストハウス（石川県）
