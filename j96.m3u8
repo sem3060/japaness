@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699218596/ei/RLBHZZZuyr6DA47sr4AK/ip/104.45.204.152/id/qNqChUFYiVc.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-p5qlsn6l.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fynqUIPbR-Q7muhg97_6Sf31oegx58Mg-3iFBA/vprv/1/playlist_type/DVR/mh/T9/mm/44/mn/sn-p5qlsn6l/ms/lva/mv/u/mvi/2/pl/17/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699196613/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgELXwPBDIwG_ihuMrdQ0sGPk10spTgQ47KMpBfMrQ2QoCICSjDEhaRhIEoSlrk4XOUH-WFMycCLGo_7uYk9ANSv6r/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgYS3kP2O5ZgQDOlLN8T86D7Kt4jYsa499uslo_qkkn3ECIQDBHaYFb5H2YiJ7jZ_jGjcG3_8UcIUWdbE5NGIO5tKchQ%3D%3D/playlist/index.m3u8
 EOL   
 
 #j97三浦海岸 横須賀
