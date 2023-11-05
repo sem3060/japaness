@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699175545/ei/GQhHZdDpE-SWsfIPho-fsAY/ip/13.64.12.87/id/Jv5-71wmalA.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-n4v7snls.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fxVZJDJXN5zWYyqLgYAevFYOpq8/vprv/1/playlist_type/DVR/mh/d4/mm/44/mn/sn-n4v7snls/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699151825/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRAIgECbckhGy-H8_CAGl0S3SohvW94zzVHtW-vvaydn79UMCIGT0zQbpNr6CNYsZqCcxUPm3Iq7cPxFUbF6nsUo4-JpZ/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgCrtmzl_jfs83c28-iypsZARvUFY0gRDNBjrxiX8IK8MCIQCf95LXFM8WbndQ0lhUJk09vQ1SgwYSxR1i9-FrX4o3dQ%3D%3D/playlist/index.m3u8
 EOL    
 
 #j98草津温泉「湯畑」湯滝前
