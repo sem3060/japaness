@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699252654/ei/TjVIZdaRBceE8wSv_KbYBQ/ip/20.42.16.112/id/un9Jfu1BQpY.2/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-p5qlsndk.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/rc/mm/44/mn/sn-p5qlsndk/ms/lva/mv/u/mvi/3/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699230486/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRQIhAPOS3QN3wc11z67T59FfGgJmQUk8uwh7Zb3b5z9lcBCoAiBim3IlmM0sJst02R7rlCseCXu8PXenc2gDgkUbbcuQGw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAPwiS5ZsAw5FlcamFM1sTlJZgPFWjw702m1wGl7EIdX6AiEAvmCct9gl43gvZSIBF5EhYDcjzgKVVuVJ39vf2ZhWC3s%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699252654/ei/TjVIZdaRBceE8wSv_KbYBQ/ip/20.42.16.112/id/un9Jfu1BQpY.2/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr3---sn-p5qlsndk.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/rc/mm/44/mn/sn-p5qlsndk/ms/lva/mv/u/mvi/3/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699230486/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIgR7q9SIOxsP0I0FBSwvtcmnRN08QeGttf_-lzyJORxg0CIEIpPpdLklDBCQCc-YcYKmgT17wckJWn75se8T1IXba3/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgMzjZrGq3FCFB2ONl0cZDXOdNF8u_dvPdG4in2IRAPLwCIGaGI0p0mZjX9JVXKRmO12NGSwc1f0jxgUpsaqCk3Ysk/playlist/index.m3u8
 EOL    
 
 #j104松本城ライブカメラ#1-本丸庭園
