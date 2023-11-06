@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699304968/ei/qAFJZdHfMoak_9EPttSQmAM/ip/20.42.8.218/id/Azbdr5jbN6o.5/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-p5qddn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Og/mm/44/mn/sn-p5qddn7d/ms/lva/mv/u/mvi/5/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699282733/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIgc1TMB8JHoxX6INW2csmi5iBqXl7wVnp4mKfEF2zdbOECIAQzF_CTlYRknMfJvbUW4amQ57xrmzWAQrL_sxPGJgTt/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgbOp1Pc-_lTjsJn219r8fw94GldfIlZzVX5OmeCVmZQMCIQD84_09UP2M_7zG0m1Ny-4HAQVRaWkRUQ-WRamXQv2x1w%3D%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699304968/ei/qAFJZdHfMoak_9EPttSQmAM/ip/20.42.8.218/id/Azbdr5jbN6o.5/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr5---sn-p5qddn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/Og/mm/44/mn/sn-p5qddn7d/ms/lva/mv/u/mvi/5/pl/17/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699282733/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRQIhAJOXoRlLWrkfPH6wMP1k7muy9qOIi4Tay3Yy1iSZSsoDAiAw7BzRJou6qwH16A3AjbrzkDsdi1bkUFrjeAgttJN7Yw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgLDJhNyyPhCA4sklEqQhTiZ8df0dJaQcyXN47Ed5NVukCIQD8hN0rJZgdrl3Jz4KIs09CgXe3W_Mt0fCKIZibNFzmCw%3D%3D/playlist/index.m3u8
+
 EOL	
 
 #j58新千歲機場候機樓
