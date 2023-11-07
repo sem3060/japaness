@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699380853/ei/FSpKZZesI83FsfIP172ekAw/ip/52.238.28.65/id/PUgPJXp9ujc.4/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-q4flrnez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/oL/mm/44/mn/sn-q4flrnez/ms/lva/mv/u/mvi/2/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699359006/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAO5XOJgFb2wcCuB-SvJ_336eXIWALSTW57w03gnxvYZhAiEA4ES4Q2SVW3aY4vF5x6grXT_z8Tya-bFxinv0M1jbwOg%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgNR62QwBzTnkgxIWSHbOBE8Jd6YUCsAZJPBYpMeMF5fICIQD2R2htJIcV9s_LoEcPRGZbuwzOf4uSdp3CYtLILJuq8Q%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699380853/ei/FSpKZZesI83FsfIP172ekAw/ip/52.238.28.65/id/PUgPJXp9ujc.4/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr2---sn-q4flrnez.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/oL/mm/44/mn/sn-q4flrnez/ms/lva/mv/u/mvi/2/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699359006/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIgChpLuhCbwqJ4jEkuhwn9cCUJl8zXglKHBOVA3_nEiggCIDnJUs4t2VQkNSFoNkGc-gFDuPHQKYd1qnD6ICEY9VvU/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgOCKgW3AkUEo2pkwFZTfO3oypkWL94SXe3Ow3XkoXzIICIDNR7sAOzOlcUFsYB_5cCK_dWuj985vvJSao8KvytA1I/playlist/index.m3u8
 EOL	
 
  #j59信州・美ヶ原2034mのライブカメラ（南向き）

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699380850/ei/EipKZaqfHdjHkgbuw7W4Ag/ip/52.238.28.65/id/Azbdr5jbN6o.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-q4fl6n6d.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f-TIKLg724MvvmGfNjgfmbByh3IiSVtpdrBtDw/vprv/1/playlist_type/DVR/mh/Og/mm/44/mn/sn-q4fl6n6d/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699358016/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhAIFdPF2mcx5U3VYlJ-BgTemJ3xZ_VLqHp5JXokOoR8pBAiEAr7IzoewW5RYhxHR0Zdpt3wTBaKOtj3WPLlF9bdWGQJE%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgdplPVWseeXrMcxs_ZopPLo0P1QoREfqJ57_gpBEmZkICID9LW6abujuyErC6oammNhxc3fXBr0Nr1tcSE-pxwnC7/playlist/index.m3u8
 EOL	
 
 #j58新千歲機場候機樓
