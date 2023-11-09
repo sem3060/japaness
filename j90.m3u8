@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699553777/ei/kc1MZZHxJaSwsfIPruWU0As/ip/13.91.178.122/id/GcVWo1DOeGc.2/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-n4v7snly.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/fz/mm/44/mn/sn-n4v7snly/ms/lva/mv/u/mvi/5/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699531773/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAPMvUh_C6R77JQ-yINKa7WJg3EQcxRuCHuDPrFqVxPFTAiEAlSOid51B3PeimYgbGeHxU9ZjIsFTvAVa5cNL92Lk8Vc%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAPud6y2q-3rIRrsNDSrsLkunT4ROAHK_DHBuIbN5YLrhAiEArBRcrPtHJzsJmuXsJkv4toHy0MIDNqiVXEhWJbSdDHg%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699553777/ei/kc1MZZHxJaSwsfIPruWU0As/ip/13.91.178.122/id/GcVWo1DOeGc.2/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr5---sn-n4v7snly.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/fz/mm/44/mn/sn-n4v7snly/ms/lva/mv/u/mvi/5/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699531773/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAMOU32jAxihxXXTmgwmtTk3-rPcLExUJaejb_I_9WH-2AiEA1HQeTPoc-HIhxKCCTYW7IdEkX0QM1cy51m9LuKwnSzQ%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgBIMrK6m1gYIVNTZhCpEb5DGkt2SxkwBw-7XL800QTpQCIDir1ywa4c_FApZa0RRbk4nriN3qaJJCEVzQxcXwDQ0z/playlist/index.m3u8
 EOL   
 
 #j91【石川県羽咋市】千里浜ライブカメラ のライブ配信
