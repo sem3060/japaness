@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699585848/ei/2EpNZYi_FvTolu8Pv-ud-Ao/ip/70.37.166.249/id/IQIuVqt4sj8.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr4---sn-q4flrn7k.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f4bdjalkwI7iBpe4xt_DZKfHsaQ/vprv/1/playlist_type/DVR/mh/_c/mm/44/mn/sn-q4flrn7k/ms/lva/mv/u/mvi/4/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699563461/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhALZf4KVK7MdJbWn0dZIDDq38nTBwz563zedv5eOhOmqHAiEAiDErPw4PfNUBhY6lY_kPMaoPGQITFzzyhk3n0rmj0ls%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAKgqKWVtA3xY_kHNO8QA6pn5RJjb_zYFf8cq1Yx1h5UnAiAAsceR1wNPxLorPWtxrb6A8SwjTz8Habi7EqkKqfr-Ow%3D%3D/playlist/index.m3u8
 EOL    
 
 #j103レインボーブリッジと東京タワー首都高速台場線
