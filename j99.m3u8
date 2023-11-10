@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699629064/ei/qPNNZa-qHqLFsfIP6My_iAs/ip/20.172.10.69/id/ZBKX3TNOLb8.1/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr3---sn-a5meknsd.googlevideo.com/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/on/mm/44/mn/sn-a5meknsd/ms/lva/mv/u/mvi/3/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699606169/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAIa14oamJdumTw8ZJH3rjgTjRGF5ol88eXzBjgWYyT_SAiEAymOqTUk0BRo9qUR51pmbkZrK5pd5Y9TlAP8TNioFpEQ%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIhAPxRfQ49tmpQbsjUr7kU5ZDcXwYrHyoZPbBR1oosaEnOAiBa-FzN-tENA7hwWT1h5hcejZxbwsgmnIxir85PaCI1rw%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699629064/ei/qPNNZa-qHqLFsfIP6My_iAs/ip/20.172.10.69/id/ZBKX3TNOLb8.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr3---sn-a5meknsd.googlevideo.com/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/on/mm/44/mn/sn-a5meknsd/ms/lva/mv/u/mvi/3/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699606169/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRQIhAM9lKxckQQSdxwUL-kmHpEbMpr69BBzxMWN8XXJXJYgwAiBn0qqSQEeREDZUSxEcCq3mfrs0KPYMSVGr9NF3HrI4UA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAOCqEvmITtWuUuJQkfpPaovF64Bn0BGYyzyIBn-XEtKvAiEAqOeJqzs4pgBsVP6GtelnKYbc0ff6paJUzIqb8rSk4bw%3D/playlist/index.m3u8
 EOL    
 
 #j100河津町ライブカメラ
