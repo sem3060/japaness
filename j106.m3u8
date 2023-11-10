@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699618401/ei/AcpNZYDcF9ap_9EP48u_sAc/ip/52.190.17.163/id/aVGYOlIzV0A.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-p5qlsndz.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f-nJhs0l-WbmnGJA7sFy4KktWIo/vprv/1/playlist_type/DVR/mh/bp/mm/44/mn/sn-p5qlsndz/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699596456/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgPEARC788wE4nXRE5EKw03IOVLLJ81E8Wo1C0TV4jF2ECIQCHVPePx4Sp_tScw5KEnXpf1JYj4aTz3GXZdDFf-Gyefw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgcR-gslMZbd44koDNre5JZvAhb96elJAwSoOT2-iaYxACIQCrsw7ybEwLecWsHMwpsrMp438Jz-tJWtJqzmPNoWVqIw%3D%3D/playlist/index.m3u8
 EOL     
 
 #j107大阪の夜景
