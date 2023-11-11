@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699672226/ei/QpxOZY3wDeKIsfIPsdWowAw/ip/13.87.245.146/id/GrEEoEmmrKs.2/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-o097znsd.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/33/mm/44/mn/sn-o097znsd/ms/lva/mv/u/mvi/1/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699649360/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAOdwpb7YNcf-grm29rl3pxNNu9Ih154NfTAjPd-ZoPgdAiEAgF9Cr5lSWpI6mr8ohmbW4ik_te7kdvpqO8Xhqh4oweM%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAIS-wxYF3XDES3DqIUubyULDRODYiXwPsygIgTBnYgndAiEA87vGFkRGPtGvwc-e4wn4nxAMeNK5Yz1W044r2Pqi_e8%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699672226/ei/QpxOZY3wDeKIsfIPsdWowAw/ip/13.87.245.146/id/GrEEoEmmrKs.2/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/hls_chunk_host/rr1---sn-o097znsd.googlevideo.com/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/33/mm/44/mn/sn-o097znsd/ms/lva/mv/u/mvi/1/pl/19/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/beids/24350018/mt/1699649360/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIgeImv-J0QnH7mrjIpUbz3uaSgs1aMByupXXM3kq8OT0MCIAYsO_N_-vtiIK_ZYSMhdtppEVfWXVnmG-9DeaCsq9jV/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAN_Le_-E3fzqdwi4r97_gYegQ6lAbrLnAXFtVC8vaLD1AiEA0wGEkLykaIlIBV8UCqauP17JAJ0R7lff7B56y0_UJlM%3D/playlist/index.m3u8
+
 EOL    
 
 #j99久屋大通公園（名古屋市中区）
