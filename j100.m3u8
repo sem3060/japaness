@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699866708/ei/9JNRZdK4FfqXsfIPuKmJSA/ip/13.88.116.218/id/Xn7YQxxC5R0.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr42---sn-ib.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f6Bt3nKDvXfVIKE5tnJfqzS8Ogc/vprv/1/playlist_type/DVR/mh/1p/mm/44/mn/sn-ib/ms/lva/mv/u/mvi/42/pl/20/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699844748/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhAJzmIdu_pc7IDLzkag3PyEg6F7HnyFrR-C6jabk1jIjuAiEAx77g6HrFw2xr2xUZQxT6nxNLWiO0wflihK0jodDNlXI%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhANCb_veLGwrYHS4uRYpibZcZNBsCAod-yRAXmpoFCXFAAiEAiL6RoXWNmy8RWYxYuXyXnWvp1Yp1dis_OowSuNmrkoQ%3D/playlist/index.m3u8
+
 EOL   
 
 #j101長野インターチェンジLIVEカメラ
