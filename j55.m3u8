@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1699920620/ei/jGZSZdekFsaO_9EP74O_wAw/ip/20.75.95.211/id/5E3cNyknK3c.8/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr5---sn-p5qddn7d.googlevideo.com/spc/UWF9f__LffppEfiCKAn3Ovlv3sDnF_E/vprv/1/playlist_type/LIVE/mh/Km/mm/44/mn/sn-p5qddn7d/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1699898254/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/ANLwegAwRQIhAPPOUYIsNDkQrtWb2YRjl92akyM-9uW8_aiftW_XYDq7AiB6ZRsxwr_xXE3MBx46g9TStxFZ2m_X_MUsuZCm5JO_kg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAKkamwsQVKtoKYQQNDCbW0E7ihvsq6hPWXi-NdWo45C2AiEA0I34OFiL4pVv2GuRmvdQCVUVeHoCnc0zftdQ6-1-i_g%3D/playlist/index.m3u8
 EOL	
 
 #j56羽田空港定点2
