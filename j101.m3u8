@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700072226/ei/wrZUZbLrI-mO_9EP1p6zWA/ip/20.185.158.59/id/vPCkonkRRY0.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qlsn7d.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f5Ij4c5hCHS7Cvq44c5TCWd5qEA/vprv/1/playlist_type/DVR/mh/An/mm/44/mn/sn-p5qlsn7d/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700050251/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgYk1M2rVp8vfqK_uy8NPiLTyn-P7laqGN0Bo_QRa_UacCIQCd7br5FlQzTxhz7xBJH6IQiZUxfNNvTzFVcyV5E0BUWg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAPLrsk6PznG2lio5LdenExs27OEKQK3TPQ3gUm6P0LszAiEAhyLYiRLWUuHDwaWMDbJQ9j6cWrGjPQk2uGe0zk4sZrw%3D/playlist/index.m3u8
 EOL   
 
 #j102お台場・レインボーブリッジ - 首都高

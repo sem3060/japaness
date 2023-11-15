@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700072122/ei/WrZUZcXdEsS4gwPEv5f4Cg/ip/20.185.158.59/id/C4Zw36h6GJk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-p5qlsn76.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9fywsblC3hemyjp816-iD7rrRZHQ/vprv/1/playlist_type/DVR/mh/if/mm/44/mn/sn-p5qlsn76/ms/lva/mv/u/mvi/5/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1700050251/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIgZ1KeLiwM_rr6nMDjRjtjCWFk7XsGv14FRufKzMVrr1gCIQCfFMZx8aszvwk2ykujap4mi5-G23uNe7vW33zEeqnckA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhAMt3Or_QWYe0Md_84x4y2N_5SWT3u0iHtVgBAlUDf6NHAiEAoAYMAmGzdQY17nvkUvmI0FtXsIuG5RCR87tOfRzaEkk%3D/playlist/index.m3u8
 EOL 
 
 #j64KNBライブ配信
