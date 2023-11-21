@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1700600916/ei/9MdcZbXQFY-N_9EPlJuwuAY/ip/20.55.46.192/id/PUgPJXp9ujc.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qddn76.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/UWF9f8xm0RS_P3xDzMALqS23xpSfSWI/vprv/1/playlist_type/DVR/mh/oL/mm/44/mn/sn-p5qddn76/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1700578209/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRQIhANYt6Se_7qAEDZiLbSW1yLuLTigsaSDSQaKb4ftjCjIUAiBamdASX7Mex08k0vI1BfnbIU_t2G8E4SJnn_cHZjSwDA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgQmyHjhS4XfyBt9ANJbIPh2oyApvG2QU9R1fgah_n3OQCIQD9k32VjUf_RGkXXi4yO2TEBzuay0PIUseOLIaRsyZoWw%3D%3D/playlist/index.m3u8
+
 EOL	
 
  #j59信州・美ヶ原2034mのライブカメラ（南向き）
