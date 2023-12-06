@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701907894/ei/VrlwZd_bHs6P_9EP9oWmwA4/ip/20.102.46.209/id/Qn0VMg6eJPw.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-vgqsrnzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/DT/mm/44/mn/sn-vgqsrnzz/ms/lva/mv/u/mvi/4/pl/22/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1701885508/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRAIfCRMCG4T5vavXGxZWF9P0agnDtGmZG4uQrYdVlJuZuQIhAK_21QMMO7zY95qBZgUAV_JiSv9KAXAhAkrF-9n1uVmq/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRgIhANyHwJ6jotG0tfLmzfjjbNBNoqHOaFnq1gkV2dBaE_a_AiEAypcfoiMyfFeSX2CX1Yrle4--wS5qQW3VVEef781Qm18%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701907894/ei/VrlwZd_bHs6P_9EP9oWmwA4/ip/20.102.46.209/id/Qn0VMg6eJPw.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr4---sn-vgqsrnzz.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/DT/mm/44/mn/sn-vgqsrnzz/ms/lva/mv/u/mvi/4/pl/22/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1701885508/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/ANLwegAwRgIhAO20uIPKMrSzNGP8KGCsXIuFp2iWx_czhSgZvSSQxk1pAiEA4PhBmLqbDCRvCSVC0d6HkK9zWDfSJvYuLsT3wPfL4Mo%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRAIgb_Sy72zsAwDe5jwwRBDhfA3ovRNinvZ5oewb_lXnFIQCIB03iWlCCyI9EmGXHvG0mBbu8EYqmuvE9BAx1IO8KlOi/playlist/index.m3u8
  EOL
  
  #j66ライブ配信　富山市内（タワー１１１屋上情報カメラ）
