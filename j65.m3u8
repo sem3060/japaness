@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1702285825/ei/oX12Zau0GaWzsfIPhI-oyA8/ip/20.172.44.130/id/Qn0VMg6eJPw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/UWF9f9EtCEsg2HgbXsXkMV0jA43FeEx-Akh8CnI-tA/vprv/1/playlist_type/LIVE/mh/DT/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/3/pl/19/dover/11/pacing/0/keepalive/yes/fexp/24007246/beids/24350018/mt/1702263817/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,spc,vprv,playlist_type/sig/ANLwegAwRQIhAPc4YHHWRfp9-T0BN92G7G5uvGQzQSdlyKmAee49oA9vAiAbviJJQdWpgfkW47oEQM4SlFUeSuekNEOBrLIsxw_-JA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgWeOrs36YQbNjI-TuqAyiH9RVS-0HmhKmDy9XNRS99tgCIQC9sV25TexQn9NO2mBZX4KshGOWYaPbk1bTr-i28LFFmg%3D%3D/playlist/index.m3u8
  EOL
  
  #j66ライブ配信　富山市内（タワー１１１屋上情報カメラ）
