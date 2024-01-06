@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704575340/ei/DG2ZZeXTHfSI_9EPwv2DuAI/ip/20.81.159.97/id/Iv2VUE_UhRQ.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-p5qs7n6d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3Cth6jtqVFeSVaumpAOtN5VzKw/vprv/1/playlist_type/DVR/initcwndbps/4735000/mh/IS/mm/44/mn/sn-p5qs7n6d/ms/lva/mv/m/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1704552991/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgUxgZau8O7JqR94wzDlEr71bWrjoWpMS0WJMTsH2Ja0gCIBSBBDMp3zgS6w0Poc9_1DjIR6Hv4P9gVMw5PtO6gsaW/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRAIgc727tW9hmYRVffLiskRupuMmx_KKh8cJCgWLrtu0IKoCIBeUAnm9lvuwz9D4e8a8zNXtpBaojRsLMvL_lWb-IVu5/playlist/index.m3u8
 EOL   
 
 #j96信州・美ヶ原2034mのライブカメラ
