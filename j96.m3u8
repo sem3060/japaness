@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704737736/ei/aOebZcvzMdSP_9EPr72i4Aw/ip/20.81.159.49/id/qNqChUFYiVc.2/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qs7nzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/T9/mm/44/mn/sn-p5qs7nzr/ms/lva/mv/u/mvi/2/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1704715189/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgRxXMH5bI0H5_wSSTU94SAwdg9RfC-k3w8YYisuyLucgCICjJjzjXiKJ3uFQYHBaPfRaiW7twR4eml4yZy7OwVWD9/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRQIhAI4qFKZ3EX233TTjfO9iVLBzHeIoUyidEoXts0Scmf-mAiAcCs1U3884ckzBWTYuEIjJ3PGp9oad_f6pj1e82XVOWw%3D%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704737736/ei/aOebZcvzMdSP_9EPr72i4Aw/ip/20.81.159.49/id/qNqChUFYiVc.2/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr2---sn-p5qs7nzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/T9/mm/44/mn/sn-p5qs7nzr/ms/lva/mv/u/mvi/2/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1704715189/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgYBybQHvyfBL-udG7sF6ojWnrVAhHeMAlQZx_PIURTscCIQC6SDgV4gEi7ECt_6lrUMup7TiLknTpUDm1o_od-we2_A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhALFUtnIE5ezXCPlf4R-fXzA1IGJXeUd42UvaTQ-Y1KjXAiEAz3v8MOKb6y_j1fv_GFWGrzUYg9fs4PJwXPsvVkdiNr8%3D/playlist/index.m3u8
+
 EOL   
 
 #j97三浦海岸 横須賀
