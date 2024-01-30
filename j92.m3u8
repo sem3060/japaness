@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1706670608/ei/r2W5ZajsPPmdsfIPjJqmCA/ip/4.227.114.100/id/SQkm4hLoRb0.5/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr4---sn-a5meknzl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/S-/mm/44/mn/sn-a5meknzl/ms/lva/mv/u/mvi/4/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1706648755/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgV18PQI4lqfogl9eEGfaA0x9-Y3LXicGARsKyZfsBWkECIQDuruGtfBMA9QVJJaKQ8lPruENjCH630nu4nBHZ2DaMjg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhAM5srcQa6sOy4NLODYQZKks7P6Ix2zm5bHlWvDuYFkbrAiEAgo-vYy00Nyxdul8-9cFFGhIUPhAVcgH0AwDe3lHsTwM%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1706670608/ei/r2W5ZajsPPmdsfIPjJqmCA/ip/4.227.114.100/id/SQkm4hLoRb0.5/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr4---sn-a5meknzl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/S-/mm/44/mn/sn-a5meknzl/ms/lva/mv/u/mvi/4/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1706648755/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgWjXbTBIyBdqnpoAwYK3L4SE4wDzzWSPbhkz5g2rZndACIF7Eb7HMWZUO4XTrLOPyssFuTETO2j_L_Wq4a5BPYwgi/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AAO5W4owRgIhAL2QX_sc0Pr3XBub5ssLdNGSOGxVT8-yMJKd7o3vB1c7AiEApfHngz6SkVtRe4o2Jadg4u0wpvgY7pdpIUVu_PHNZUk%3D/playlist/index.m3u8
 EOL    
 
 #j93姫路城ライブカメラ
