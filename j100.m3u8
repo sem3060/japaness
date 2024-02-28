@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709122309/ei/pc7eZe3TI8ukir4P6MuhsAQ/ip/172.183.131.136/id/Xn7YQxxC5R0.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-vgqskn6z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5rcEwc7d-6hrOZwUIR8R1o8YuRj02USzv5Raa9RNxg/vprv/1/playlist_type/DVR/initcwndbps/2531250/mh/1p/mm/44/mn/sn-vgqskn6z/ms/lva/mv/m/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709100031/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhALJja5-myTJXYrKNoklrMQ7dvmwQ27gTepJUpz2FFASFAiBLMPnQ8FOdJqAle_Z4Bl2ZlvXaNTOaZf5JfXH1GyIkAg%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhAK283vfHGUleQTVebQr95JFkFxzgpgyNJTu9D-reaKfOAiB5hI6Fv1WQcyJZ2UB4LOYij3vFelfqGJJj3Ou8em_P3g%3D%3D/playlist/index.m3u8
 EOL   
 
 #j101長野インターチェンジLIVEカメラ
