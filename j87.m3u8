@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709188506/ei/OtHfZbziOYnWsfIP96CG0A4/ip/20.172.28.130/id/-UsW0JsRZXM.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr5---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fxQ3bYtyFkfUGLApqIAcO0ugBzKxjBwoFNR9SeHARxs/vprv/1/playlist_type/DVR/mh/uZ/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/5/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1709164692/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAMCw9ddQBivc0cM_jQqPCOsAh7h2TTmMJ1Ya3cTfzwkHAiAe6jokFKSesqTZufVv5UIUeDN5QKVS74iw3QhBFxBYxw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhAMT3jca5k58tVEU4gew1hsXuRjBhe0utuAz7hxv_e2n6AiB0iveJJENHYWqYJ7Xj8gG0JkXXzawZyySkzrXd-qa9rw%3D%3D/playlist/index.m3u8
 EOL    
 
 #j88道路カメラ_縁結び大橋
