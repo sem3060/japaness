@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709943161/ei/GVXrZaWUGeaYsfIPy4eayAk/ip/52.238.27.192/id/Jv5-71wmalA.1/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-q4fl6nds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/d4/mm/44/mn/sn-q4fl6nds/ms/lva/mv/u/mvi/4/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1709920608/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgXc5oADSBFWDPYTVu4Bu18di1Dg5Xkxv8h4oRCYpzMNACIQCV6kdNqa2EeinC_NfvZAbFnuhWeV3g8geIcCa-8L3vfw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRgIhAJJKyUDQOvmg7R8iQYKL04JSMDP6p7KLYHWnuKVDNbMLAiEA8NBukn2VwuN7cGHFq0BdOqlVMa-8bSTKTEUgA5f6vi0%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1709943161/ei/GVXrZaWUGeaYsfIPy4eayAk/ip/52.238.27.192/id/Jv5-71wmalA.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hls_chunk_host/rr4---sn-q4fl6nds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/900/manifest_duration/900/vprv/1/playlist_type/DVR/mh/d4/mm/44/mn/sn-q4fl6nds/ms/lva/mv/u/mvi/4/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/24007246/mt/1709920608/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgXvNdHd6Imc4MfNh0Rs-6Y1xBuqdA2pxpmIX1Wx1VLzUCIQDQh2Z10KrPkdHB-UiBqTJCrVkGce17rCZoIJxdC8_grQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIhANFqczSbX6eAl6R67VS7LQEWeuY2WjhowP1EvvzLXr2VAiALbN_nwktMbxHLb8ko025RcpeH0-HCFZpFG5JnNsFEqQ%3D%3D/playlist/index.m3u8
+
 EOL    
 
 #j98草津温泉「湯畑」湯滝前
