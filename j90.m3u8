@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710169885/ei/vcruZcKtLtaKsfIP-qqg2Ak/ip/20.172.7.5/id/GcVWo1DOeGc.2/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-2imern76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4H58BCj2NEpjVSbNwJQSp1qTR1jGHxxW1xKempWycY/vprv/1/playlist_type/DVR/mh/fz/mm/44/mn/sn-2imern76/ms/lva/mv/u/mvi/3/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1710147833/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANX5Z0rajXqj9Bo05wSyW-3TOYGho1p3RTTq5SCxIt5KAiEA4ZjBN7ZLaPCO8MQGq1gYFe8tPQaPQQqJpVwADg3_zP4%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRAIge9ihh7d0XkCp1Ah0ENfUAjz_ban-fP0vjd6hnK1HM98CIHJDhpUYStUpXKVX9fdkB-D8BV_-Zelt_tB5qFXnJ6Fw/playlist/index.m3u8
 EOL   
 
 #j91【石川県羽咋市】千里浜ライブカメラ のライブ配信
