@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710225142/ei/lqLvZfGKCZmY2_gP1p-7sAM/ip/172.183.54.153/id/q5T3DxdzLs0.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f3rNqc-gjYKgghH9vZV3PPfE_hYBtflahGVk0EC8nq8/vprv/1/playlist_type/DVR/mh/7F/mm/44/mn/sn-vgqsrnz7/ms/lva/mv/u/mvi/1/pl/15/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1710202298/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhANQOaldTR_Wsr0BP1G2DmX8YeCHUVHgZc0gJkZmh8KGeAiEAsf5AdckxcuSJzT4qoVg8leNEiOqzUqxJtB6vyCFgpec%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/APTiJQcwRQIgIMcWjyhr9iqt6euT46IsuhHHeFf5HCTVMOPJJEvDhi4CIQCqruQj06B1e57c-3tgoYBRcFPRAkCMGkEsr4ai1Mu4Lg%3D%3D/playlist/index.m3u8
+
 EOL	
 
 #j12富士山精進湖
