@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711163376/ei/kPP9ZeK6HqicsfIPvLCZuAo/ip/13.83.123.148/id/-UsW0JsRZXM.1/itag/312/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5m7lnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/uZ/mm/44/mn/sn-a5m7lnld/ms/lva/mv/u/mvi/1/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1711141055/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIgB0e2QklhDeX5dI-cYWzt0-XuVpSKR5kJhIgarYDLQ-UCIQCXz-h35BvRULTcCZMOlxNkXiiecaSxnHkaThXF_lUyOA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAK9-4dvC7iB08SNwCmw6yyTXzqcbQUwQCZIaVbf3vCKLAiEAjfgmAAnOdEJOp9gLenVftZdgBCSaBygRpa5vUxY_acQ%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711163376/ei/kPP9ZeK6HqicsfIPvLCZuAo/ip/13.83.123.148/id/-UsW0JsRZXM.1/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-a5m7lnld.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/uZ/mm/44/mn/sn-a5m7lnld/ms/lva/mv/u/mvi/1/pl/20/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1711141055/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAN9Bs656fvaV1SPPPaOUwfF0GpCG-s3eFRxKD39DIsydAiAIlvaKPu6S9NXTerMspON7r0hiM5Y2jayrwgRDsGzAOQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAIgwsMSgSLb3bMlK_CYB8EE3YbLDCztF2FZs0YSXAm_iAiEAjDGNG5-Gv7pFf0c8YjT_IDPSE0eh4NlZWEpnuk8mQaw%3D/playlist/index.m3u8
+
 EOL    
 
 #j88道路カメラ_縁結び大橋
