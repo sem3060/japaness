@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711239071/ei/Phv_ZevyO-aVsfIPi8uG-As/ip/52.234.27.11/id/Xn7YQxxC5R0.5/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-n4v7snl7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/1p/mm/44/mn/sn-n4v7snl7/ms/lva/mv/u/mvi/4/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1711217159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRAIgRQGSL4iqoGchJjm8MPdElfxW1eKquhp0eDT8U0Ke-goCIDf00Tcq9eCCLcitLZ8bNA8ks6gkcClKT4oHupTi7n-I/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAMaKH0_XcvLyMOWLsS_Eggd9Fs0_WCncKgk9wMfhrCIGAiEAlcgYGiUNt4yOiaJQEdjKOL1qhIptGaWWZnYGwcplyeg%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711239071/ei/Phv_ZevyO-aVsfIPi8uG-As/ip/52.234.27.11/id/Xn7YQxxC5R0.5/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-n4v7snl7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/1p/mm/44/mn/sn-n4v7snl7/ms/lva/mv/u/mvi/4/pl/23/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1711217159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAOdhMKCGCMRGzQLMiG4UViNDfhlsx8KXQ-MtrCHVFPYSAiBGnHeKrWNdeiywBMBDNJsZJXqazwe7X0FXvDqI_htR_A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhANz2pVCYVrUeAgCRS2r8ZghPd1qPIrJ5N0n7CGWZsmc3AiEA0O0MWgGFl5wmEPsSAJ5k-nj2sAnBMemtk0RFDzp2NqU%3D/playlist/index.m3u8
+
 EOL   
 
 #j101長野インターチェンジLIVEカメラ
