@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711498287/ei/zw8DZszTHMifsfIPs7GfsAw/ip/52.238.27.193/id/gCSr3Qm3BDM.3/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/vprv/1/playlist_type/LIVE/mh/Vg/mm/44/mn/sn-vgqsknzs/ms/lva/mv/u/mvi/3/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51141542/mt/1711474152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,vprv,playlist_type/sig/AJfQdSswRAIgPuIQNyKEMEoWmkCsl0d79PhRIkVAh7gZmTK-wMyNWM8CIHlSfaooAduF_uMf9qTUcrYpzoSJFbR2RXpw30mMS9Tm/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgQrLS57ahzf7aOULulIpKO5xsGCFoLzD-z_phpEAaKbgCIQC2OiljSl2eQUdABHSt3builpf2qT2pA4ml_7P671pVgQ%3D%3D/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711498287/ei/zw8DZszTHMifsfIPs7GfsAw/ip/52.238.27.193/id/gCSr3Qm3BDM.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/vprv/1/playlist_type/LIVE/mh/Vg/mm/44/mn/sn-vgqsknzs/ms/lva/mv/u/mvi/3/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/fexp/51141542/mt/1711474152/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,hdlc,xpc,vprv,playlist_type/sig/AJfQdSswRQIhAM3MZz5jH8aDUSb480NeEp1ZNnpFZWwSravZAcmtd6G-AiAIJyQFIAL8oR851QOzQpUQ9OxVHXBkRxpy0svaqBdsGg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgWIT2V4CADQdt8drC8DXxHhfZYHvlgYxa5b68jAKJLCgCIQDgjRQVreqeOLC2tews7BQBOcQ4oGyP5D1JjOQ7zSg0eQ%3D%3D/playlist/index.m3u8
 EOL    
 
 #j89しまなみライブカメラ【EBC】
