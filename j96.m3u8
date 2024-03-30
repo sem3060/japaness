@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1711780450/ei/Al4HZuinNuyBy_sP_LSBuAg/ip/20.55.118.208/id/qNqChUFYiVc.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-t0a7lnee.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_WpSpnY7oo4bSdnQGsVDCSRDKKd8qsRzmOW-C47Z6M/vprv/1/playlist_type/DVR/mh/T9/mm/44/mn/sn-t0a7lnee/ms/lva/mv/u/mvi/4/pl/23/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1711757942/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgMoWY1D2KAf0DZ6yDEgL24evCd0Exe-4h6O5vmt2A9PUCIQD8GUocDaxpBWBNG7z4UlNIy4nTlTVqIYhUoMrFLOGHBg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhANIqSBF1RuFryet_Pd10xQOfxSEjlZcTaQe2biaUGeJTAiB0ChFPdd5ZK14kBPoBvcrLFKX1m3DXOIi4vuikPI5-ag%3D%3D/playlist/index.m3u8
 EOL   
 
 #j97三浦海岸 横須賀
