@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712730852/ei/hN4VZq-lELySkucP36OB4Ak/ip/20.55.46.203/id/nk9uKVuLcGE.5/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qddn7d.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f7NyUzHWq3RFubCCaW5fQWxku-GDBfA0/vprv/1/playlist_type/DVR/mh/ZC/mm/44/mn/sn-p5qddn7d/ms/lva/mv/u/mvi/2/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712709040/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgZeqt7LZBMDVD87I5CmvhBRhdjR44_Ca9jlbtmEKU9tECIHpPp8S0mksiPZL1k8RZK6TpFRJTDOvDCJbSyKgBUc_D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAPVVnn1-_y3bHCCFjIltCY5VFOPTCcltUeep5Wb5t8inAiEAxUxUSlx3Z36nYnsxkGaQpZcUgXsR6Ube9bXFtQPpGPw%3D/playlist/index.m3u8
 EOL	
 
 #j46石川県羽咋市-千里浜

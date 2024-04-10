@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712730815/ei/X94VZuqAKLSMkucPoeiQkAk/ip/20.55.46.203/id/dJZBqTeC-h8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-p5qlsn7l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f5bGbwQeaXSc-jZIZsSPrQ8FwEsjgeUh/vprv/1/playlist_type/DVR/mh/_i/mm/44/mn/sn-p5qlsn7l/ms/lva/mv/u/mvi/4/pl/16/dover/11/pacing/0/keepalive/yes/fexp/51141541/mt/1712708321/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJ-fVg-0T5tg_Snj3n8GjFx7oD4j399hWEH4X3hiGC8DAiAd43TvXNMSMYGjNCZtD5HtX8vjxAlpXet55EcrKe1yYQ%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAJr93A9igRdWw87LG6LoOOl5pyFtuWu-fms8A7wTweUPAiEA29i4bZ82-cZzqCrGYsPokyjKDxRD6sd1x4wWiQfHhOQ%3D/playlist/index.m3u8
 EOL 
 
 #j22羽田空港 ライブカメラ
