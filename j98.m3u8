@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1712989904/ei/cNIZZqvdD77isfIPi4quUA/ip/20.172.5.213/id/GrEEoEmmrKs.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-a5meknds.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f4KykzyOHxfGMdB26n39x3LD3c_whkIdQoB-880-scN7VaOb5z26aGiL/vprv/1/playlist_type/DVR/mh/33/mm/44/mn/sn-a5meknds/ms/lva/mv/u/mvi/5/pl/24/dover/11/pacing/0/keepalive/yes/mt/1712967369/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgNf8-rm6aGMKsmpyRR47mf36Wq4APHlv7NZvvX87I6q0CIEDnuVAep0pBomO8B4kEK8JF07NMMGCYoIzzxzxh7myx/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhAKSxVCPzH8puzwMWiVnNn0I5r-x_nGdx3q3_vHxdEy1UAiEA167MCNw1uAaAyBDm6lSqg_c-O5uN52Ftip6YgB0hvd8%3D/playlist/index.m3u8
 EOL    
 
 #j99久屋大通公園（名古屋市中区）
