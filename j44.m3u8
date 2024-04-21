@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713744670/ei/vlYlZs7iLc-0ir4P-K6moAM/ip/172.183.115.244/id/DSEesr7uFh8.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqskn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f1QjWfsIUBc9wuL4Vm4gOIhxVbA6L9hW/vprv/1/playlist_type/DVR/mh/H-/mm/44/mn/sn-vgqskn66/ms/lva/mv/u/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713722297/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgUilV6Yz6SNV1x2Dp6_wYbuDS9f5LhabUGD_BcDQvWc4CIEw3bAMxZcT7mBy1KtdDk6ngCqSSEqrny2Thm5s2gnSy/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIhANhXolIsr2dM115PRZhm2kh672iq-r8Snp93f9D0S-P6AiA8cmSnb99st5rHcCwOuAcipEC4eDYfHhFpaDJrwwDPBg%3D%3D/playlist/index.m3u8
 EOL	
 
 #j45十勝大橋ライブカメラ

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713744652/ei/rFYlZpjAIYGHlu8PjMesuAI/ip/172.183.115.244/id/Sv9hcJ3k5h4.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-vgqskn66.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0dfou6apUeTk2DV-KD1fZkycvISu8ze/vprv/1/playlist_type/DVR/mh/ZC/mm/44/mn/sn-vgqskn66/ms/lva/mv/u/mvi/4/pl/15/dover/11/pacing/0/keepalive/yes/mt/1713722297/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAL38UuyumkRbc7KZ9PQ0ZzjwdtYGllB4VWEfiVwarsgJAiEA6kAp71rBZmjeTH2FAIUcNhBL6gbIRxx6PBS0aNEfQRg%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRgIhALW07UsseIlf7SZ7uf6Sw13MgmA2Czf430Kui0-zKd-zAiEA3j-i0dKRLc1m5T5tfj3MX0QRkJJMZIftC4_7lHENbVU%3D/playlist/index.m3u8
 EOL	
 
 #j34ホテルマウント富士ライブカメラ

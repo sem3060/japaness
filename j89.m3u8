@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713744751/ei/D1clZpeIEL-1ir4PmcKz8Ag/ip/172.183.115.244/id/OV0JEv6C2QQ.3/itag/270/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrn6l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Fj/mm/44/mn/sn-vgqsrn6l/ms/lva/mv/u/mvi/1/pl/15/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1713722297/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAJggKcdl_xO8943O_wJPj231VaklC40cLyAxBN6MHxmhAiAqs3G6A1RsUed9E8R8ON6_QXpTxmt85J2ZJuHO9gn8bA%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRAIgXbiiRAk2sYnR6GZUh2zmxeOWAJuPfsw5pq6EqNL05HsCIFR0Cc9p2CpBgZ3n2oO5vocPChfFo_HhxPzahMHvZgjk/playlist/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1713744751/ei/D1clZpeIEL-1ir4PmcKz8Ag/ip/172.183.115.244/id/OV0JEv6C2QQ.3/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-vgqsrn6l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/3600/manifest_duration/3600/vprv/1/playlist_type/DVR/mh/Fj/mm/44/mn/sn-vgqsrn6l/ms/lva/mv/u/mvi/1/pl/15/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1713722297/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAMTG5cFMik_bcJAOQ-oIwojHwau_5yFOfS9pHtE-2T8KAiBM_No4nd05hUKASq5pQ8rI6mX5SmD9mxD8Gb_CO4jRpg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgAupvrZLLFI0-LRuQFcUaAHThDmrr8KmrN0g-K-zFEykCIQCLCOhSgDjfyQff_zLXM68AFLEfagtDecX5U-slZv4Ivw%3D%3D/playlist/index.m3u8
 EOL    
 
 #j90能登千里浜レストハウス（石川県）
