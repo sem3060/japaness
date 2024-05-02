@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1714662519/ei/F1gzZubrE53ksfIPyJem6Ac/ip/20.172.0.32/id/Azbdr5jbN6o.5/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-a5mekn6l.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f0ayEqnlBQPhChMazBMsuVBuv5aiU7mtFd7xS3fIf-02XxZu7Z0bTO63/vprv/1/playlist_type/DVR/mh/Og/mm/44/mn/sn-a5mekn6l/ms/lva/mv/u/mvi/3/pl/16/dover/11/pacing/0/keepalive/yes/mt/1714640511/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAL9oYX7Ul4MI3ADnZrSmmtq0RVmwQBQlluNTfCqVVvfVAiB5YFr9FjdXAEQdh5e-1H2A3-B4Ho27pl0lHFLhw5aKrg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRAIgMdUB6cltYMSuOEybU4cqTi4un_myarldDgY2LkTbaBECIF3rLAAp9pUNAyg0tJgmVuQTvJx6qlThK_7eEkT9D9nd/playlist/index.m3u8
+
 EOL		
 
 #j28日本各景點直播循環
