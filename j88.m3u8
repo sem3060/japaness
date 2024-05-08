@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715149862/ei/xsc6ZuyRDPqHlu8PvJCHyAQ/ip/172.183.154.190/id/gCSr3Qm3BDM.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr3---sn-vgqsknzs.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/vprv/1/playlist_type/LIVE/mh/Vg/mm/44/mn/sn-vgqsknzs/ms/lva/mv/u/mvi/3/pl/15/dover/11/pacing/0/keepalive/yes/mt/1715127246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,vprv,playlist_type/sig/AJfQdSswRgIhAOw7oDJ5Ha6JpWLoTkkGRRLrm3PasgI9DwbqWCiPKQ_cAiEA39HaQCcr-3fcVTwX8cONt8yMpmYjE_-lr4qfJAXxTQw%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRgIhAKpkt1JGoAj8rt7U6tPCKgw2kKHOK42qsts-9qT_ZN93AiEA0Rxkporlp6XvZgG9PdPDhJA0aBc1QdiCQXiI1_ZgnQI%3D/playlist/index.m3u8
 EOL    
 
 #j89しまなみライブカメラ【EBC】

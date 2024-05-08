@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1715149767/ei/Z8c6ZrnKGubPir4PtdG-sA0/ip/172.183.154.190/id/Gn2CJjzY068.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-vgqsknes.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/qx/mm/44/mn/sn-vgqsknes/ms/lva/mv/u/mvi/2/pl/15/dover/11/pacing/0/keepalive/yes/mt/1715127246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAOUsTUM4nHRh8w-mvjRU3m6fRqEDHj8-c8hkDpXLnvrhAiEAvRihf45ba9oaBBTnrlr_FHd1Im1kkSIVEnTgDNPsKVA%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIgb-yuTBWpb5gLlKwRyOD-W8kpkTDIUWVh66N-1rHJrPwCIQDLvXk2ENbE9TqoahGA8WNcNsKIURhMn-eYQ4X-sF7Frw%3D%3D/playlist/index.m3u8
 EOL	
 
 #j35富士山ライブカメラ 朝霧高原 より
