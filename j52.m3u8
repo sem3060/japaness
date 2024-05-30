@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717051032/ei/OMpXZrKrKKSBkucPypmH-AY/ip/20.109.60.241/id/DLsYMox4rCY.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr7---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/spc/UWF9fwK8CLxxboE6U4yft-sHlz8vsUZD2i9WnmTGvYpGybbW0IaNbJjqw-hACr0/vprv/1/playlist_type/LIVE/mh/Fj/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/7/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717028738/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,spc,vprv,playlist_type/sig/AJfQdSswRQIhALlU0t2YjE1iSfzxcY9KYYCKyhnuPo4b2ypW_KK0BfLbAiACKgaYuPtBs5cwX8JJqyqnFAdangJ0KnqXcuTPdEZpqw%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAL3WKDywrJq40tZHbGYG0OP5AiJaZDhEjP3j1f0mAx46AiAMltetojd9oEjxdKtPi7K2kIaofctHhAO2YzhppTo4wg%3D%3D/playlist/index.m3u8
 EOL	
 
 #j53羽田空港D滑走路

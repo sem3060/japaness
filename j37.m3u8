@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717051010/ei/IspXZoDODJmIkucPu9ul6As/ip/20.109.60.241/id/hBiBadOukZA.6/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-p5qlsndd.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9fyQK9Defou9eyrkXr8YMTYFfw8B_XwvWJZIO00n871YcsCX__NqCwUBM8Qk/vprv/1/playlist_type/DVR/mh/TN/mm/44/mn/sn-p5qlsndd/ms/lva/mv/u/mvi/2/pl/22/dover/11/pacing/0/keepalive/yes/mt/1717028738/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPdeEsDQUYm6mO2SBCtf8QeW-F3mpce5r8Tkb3SqAFymAiEAmgl8E5-6CzsqAMIEHHHfUlAO5euEsCvz7f7YWIkWx7I%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHWaYeowRQIhAJB4SyxZ3en-Z6vKgwLQ06kRIodWWuP825Hjj6QOaHY0AiARnhVAydvId3t-hzYbYJ-DX5051pSuD-OVeHvw69YbUQ%3D%3D/playlist/index.m3u8
 EOL	
 
 #j38北海道 いまの札幌-さっぽろ創世スクエア
