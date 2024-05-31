@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1717211322/ei/WjxaZv71FYWllu8PxJmi-AY/ip/20.98.6.138/id/mYhkthVZUhY.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-vgqsknz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f48f5QPuTIlivG8-IqfbsJjX9akqFW9rlahN8yA8XUmJgQ-tqCfmxniyQMc/vprv/1/playlist_type/DVR/mh/Y4/mm/44/mn/sn-vgqsknz7/ms/lva/mv/u/mvi/5/pl/15/dover/11/pacing/0/keepalive/yes/mt/1717188828/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgVtaa_nlyqAUF7p41QEihL6yyf8SsRUN3bailAysZxJECIQDqAzMD6nDvGx78Uj1Gfv4mk_dKom8O_y3mdSDcQBAL1Q%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AHlkHjAwRQIhAMybrBYCpHCTm6w3OCYWKZOhayt6KK_NGDo4y3Mo04q9AiBMS6QZgN8J-t5U-yzy7g6B9sHL9hxHxanmKSMyu1qJKw%3D%3D/playlist/index.m3u8
 EOL	
 
  #j51羽田空港3-滑走路の空
