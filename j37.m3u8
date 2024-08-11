@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723345752/ei/-Na3Zsu9K9KKkucP6rfA2AM/ip/20.109.38.39/id/hBiBadOukZA.6/itag/232/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-5ualdnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/TN/mm/44/mn/sn-5ualdnz7/ms/lva/mv/u/mvi/4/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1723323419/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRQIhAKFZ_n3tJG5o3HNdfb5uIEbYrVWY5OdOdTD9Htdm_JV0AiBPbUe7sjnQUgg4zZg1yV6rejuJS5JUVb6o3FEalz9I5A%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAKufI_LZSXvvBPAFgPduLaPhqL-8pGy7zoqZHiqaiUmrAiAsCFyFdR6I9tB0XtrPvIhrY5enzfBv1a-tr4Vr9I9h1w%3D%3D/playlist/index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1723345752/ei/-Na3Zsu9K9KKkucP6rfA2AM/ip/20.109.38.39/id/hBiBadOukZA.6/itag/234/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/133/sgoap/gir%3Dyes%3Bitag%3D140/rqh/1/hdlc/1/hls_chunk_host/rr4---sn-5ualdnz7.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/mh/TN/mm/44/mn/sn-5ualdnz7/ms/lva/mv/u/mvi/4/pl/16/dover/13/pacing/0/short_key/1/keepalive/yes/mt/1723323419/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,rqh,hdlc,xpc,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJfQdSswRgIhAOsNvIXikODlhMKExhkzGJNEnzdx0zysHSpAEvUd8OnSAiEAr-W3SHbGlc41c3Rs4fVmEifqSfSnk57UoDnFE5-wmLg%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRAIgDRbI0Kfmr07s2WLs9N8E9duaDQd4SyJR_dANSr1zDpYCICIQsZj0ysXQK1c_q52GKbCCZfWTiWaYKIBUuXmZ57HN/playlist/index.m3u8
+
 EOL	
 
 #j38北海道 いまの札幌-さっぽろ創世スクエア
