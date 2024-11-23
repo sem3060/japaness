@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732344412/ei/_CVBZ-OJBKCAsfIPmbTdoA0/ip/52.225.77.220/id/OV0JEv6C2QQ.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr5---sn-n4v7snly.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAdLN19al3yn6UujVSkK3MJ8Uvf3iIFCkr3VetjfUTONS5jdiBm3JTb2BP7E/vprv/1/playlist_type/DVR/met/1732322812,/mh/Fj/mm/44/mn/sn-n4v7snly/ms/lva/mv/u/mvi/5/pl/18/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51331020,51335594/mt/1732321218/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgfHY_Mrr3FCTu1P-NNE4Zndwzb3IJ0XlFhrdecsAdo8UCIHuvEympRKUgAA9ibR9chPgY19iXYBx7YAqSvfGSfc7O/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIgEmyajsbn2VP2DQlr7SdoAwxOUzK0D4Ve9OqdtRoTJcQCIQCVs-cV7-SrRLvcHLSRm2TbqvOK8RC8IU6hJQv8kmXavw%3D%3D/playlist/index.m3u8
 EOL    
 
 #j90能登千里浜レストハウス（石川県）
