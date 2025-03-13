@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1741857772/ei/jE_SZ_qjHbmCkucP8PHg-Q0/ip/20.55.86.201/id/dJZBqTeC-h8.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-mb.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AUWDL3xzFZEJ_H4Jd1vIYl8HallTAF9Qv69cjmh8_1H7FeybPSNR4FzLSI8Dky7G4SYXo4Y1ZT8098De/spc/RjZbSduOcCKM3ZNrV9hGzf3fZQFRUQMBP8M22DRjR7wZt1gge_myLuJPfs--eXo/vprv/1/playlist_type/DVR/met/1741836173,/mh/_i/mm/44/mn/sn-mb/ms/lva/mv/u/mvi/1/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51358316,51411872/mt/1741834913/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgS5tob7QltOc6lZ11rnITGeEt4RSzVGN8qX7_If2lbi8CIQC_Ro8Ft6918O8IuqeVepB8YsQw-tWDp_Pph4ieFLcrSw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/AFVRHeAwRgIhAMnXaY1vdDnSpuA4JLQ96aSG_R_WUQhjO89eSBBBbT4xAiEAnBqOnJIB33VHpPUu8rDPtl6ZpomBRCdMpRLdvjNVPt0%3D/playlist/index.m3u8
 EOL	
 
 #j48木場公園ライブカメラ(広角) 東京江東区
