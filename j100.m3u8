@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746836261/ei/xUYeaOqzN8STvPEPvLbmwAI/ip/172.183.152.24/id/Xn7YQxxC5R0.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-vgqsrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAathtIcjOsOSsMYvps8x-VEMUHcPx84fkDzwHDMP4tVTs-tmP1k9NVgyelHm6LWhU8GDc7H_aCu/spc/wk1kZnUbnm04f44cfIJxKukaAa-xlH756T75niJBHRsbovyg--MIesDJvJTepeY/vprv/1/playlist_type/DVR/initcwndbps/3295000/met/1746814662,/mh/1p/mm/44/mn/sn-vgqsrnl6/ms/lva/mv/m/mvi/4/pl/16/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51466698/mt/1746814362/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAPtIh9SNE4qlmY5JKzWzobdoe_HLSOickLdl26ki74RDAiEAw3jT-ZiHlSx-wWokTW8J-bWfPB9_J-nR8oM25bLb4QY%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgb15acB7MqEItaBm_dmHXJ3afMm8awpZpo5So3NclN4YCIQDQZE4yNsK1l7XPndfiJRW_BrHQ8KQxDdiK9HZmK7umQw%3D%3D/playlist/index.m3u8
+
 EOL   
 
 #j101長野インターチェンジLIVEカメラ
