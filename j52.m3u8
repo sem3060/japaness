@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825165/ei/bBseaKLMOJaLsfIPt_DaqQE/ip/52.225.31.0/id/DLsYMox4rCY.11/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr5---sn-nx57ynsk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AecWEAb9kM2MctKYO0fn6N6KIOb7t8IBQlNxFim8HEDwHGI-VOX2C1YbkDURRD61VT4oFxluWGmsmzfC/spc/wk1kZm48uojx-8gH2DsWp9A9eF-SrTO4ZSm9TbjJoAoMmGAKZkja5glqdAgoTMY/vprv/1/playlist_type/LIVE/met/1746803566,/mh/Fj/mm/44/mn/sn-nx57ynsk/ms/lva/mv/u/mvi/5/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgUaT8Ogs2JRAeMlAaZW_BkBMbK__MvJOzEsRFFRNl8-sCIQDUZQ4VtOMw-K_ZQJXFEh09-C3c5CT71oSNO2vawaA2Iw%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRgIhAOi58DO6JgRVC6tVJ7jae5Cdc1YPEjbas72UZ71M9HddAiEAiakg6ZpmVSDo-4vtXJf_dZg2XAyipQ3jgu7DmltHQeE%3D/playlist/index.m3u8
 EOL	
 
 #j53羽田空港D滑走路

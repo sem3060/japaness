@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825114/ei/OhseaPLLGp2QsfIP7ea7gQM/ip/52.225.31.0/id/ZAwOiSKL4Xc.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr3---sn-nx5s7n76.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAbt4q_ZLd9vMhmiBB4ZjoZOwxciyV2zcV4AhZuAfY2-xYavJ-pbdFVskBhxJTnU9DG0HbjNpDqv/spc/wk1kZn3SshJ1hMLjJkTuzwcUrgRh4Y6oAvmvO9tg-abLIZf0hNLHibV-_WHvcYA/vprv/1/playlist_type/DVR/met/1746803515,/mh/SO/mm/44/mn/sn-nx5s7n76/ms/lva/mv/u/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgBIwE3iMW3oPDFZPmJ_q1wD34yKJvSt6RrAYUy2HHZ5oCIQDjUaJkazO9ANlxsTgfksO9wjK1bCvT-W_3OU_4_P5i4g%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgYdePUvqnqNavUPuIDUwtj4bjdDc8iYqh55hM6SkOjNMCIQDjMo0FoxRsecwpIUfI9RqBioJwFE4p-FtLjisvHI7NvQ%3D%3D/playlist/index.m3u8
 EOL	
 
 #j32静岡市さった峠-広重の富士山

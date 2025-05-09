@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825145/ei/WRseaJGoMbO9sfIPxamxoQ8/ip/52.225.31.0/id/DSEesr7uFh8.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-nx57ynlk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAbDVbTrav1Zw27CfLUzJFlv-gmsHrakDFxgPvSkMzGEH1HQpcy83cQMw8gYhHaVXFzwtKAttf4Y/spc/wk1kZqB7glEaz0q_2yJb5-vwbklh-orEdezdJc1NdCJwan_afobdqrrws19Ll-8/vprv/1/playlist_type/DVR/met/1746803546,/mh/H-/mm/44/mn/sn-nx57ynlk/ms/lva/mv/u/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAJ139ldcOxHYrkIMKheQMy8pNjen9-IEo-vSZNd5YVkYAiEA9LDvoO5yQUVO3MqI7j0Brwb0lA7TqUVkYHQBAf7-S_0%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRAIgW0Ta6KO3YuV9k1JYjY10pnQgYNIOEFo7uywQLwNH430CIG24DouPn-laO1zu3SnoTay5ITuj2rQaCyncqWoeEZ9R/playlist/index.m3u8
 EOL	
 
 #j45十勝大橋ライブカメラ

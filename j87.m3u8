@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1746825248/ei/wBseaMAju6ix8g_Dl_ShCQ/ip/52.225.31.0/id/-UsW0JsRZXM.2/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hls_chunk_host/rr2---sn-nx57ynsl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AecWEAZbF0036pXpa4sXL9i3FTVgtlHnqzOuysKITaxsZSkq1AZzyVvAqnPHKvIgGZS16kvHK_rn9d6C/spc/wk1kZjAwIiCQcTKNLppuHJaFw1MDglfnrl7_SWsrPcyp_8hSaUz-1EZAX0mLnEI/vprv/1/playlist_type/DVR/met/1746803649,/mh/uZ/mm/44/mn/sn-nx57ynsl/ms/lva/mv/u/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912/mt/1746803126/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPMs-YGii5V-8EQwHU60GVQxIH02uTXd_E_CV-ZnFFS5AiBsLAc7sHbuTT4_pu06pmo3BJULEFBYGv2jBx0Ls0-10w%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACuhMU0wRQIgA5EJBKLLneFaG0B4mYeAffB0TVOm5mo180muafHEFeACIQDB3VCQXv6yjGR_tpkwc0vbD--D5ABnQ80NXYgKW8I1TQ%3D%3D/playlist/index.m3u8
 EOL    
 
 #j88道路カメラ_縁結び大橋
