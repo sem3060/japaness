@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1762280607/ei/P_AJaa2jM5Lzir4Pvv-zCQ/ip/135.232.201.54/id/Azbdr5jbN6o.6/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr1---sn-vgqsknes.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5T9lqRQbmVl9oDQ7t351tpFyuXJva4y_EGnIwAWbvbQ1AGvuAxjIXyN_3NnhdOUiR3TDblxXd9S/spc/6b0G_LRPeDp2hQ1Luo33/vprv/1/playlist_type/DVR/met/1762259008,/mh/Og/mm/44/mn/sn-vgqsknes/ms/lva/mv/u/mvi/1/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1762257823/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIgfgvp-NRiNfmqoGLz-rbhlZT0qEawuVBGmFyrIYCmh50CIQDU9OmBHc4bl9smjBFYAwQnj1WmYYVx8SXFeZFbJ2gZ9g%3D%3D/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgOgqu_AtriSo-hD0D8ZkP-Z4EmsX88Kmb9u6URiwn6vwCIQCUNII0ZPnZx2m2oXBlFEUSdzukoD6bfnlPxGS8MGPK4A%3D%3D/playlist/index.m3u8
 EOL		
 
 #j28日本各景點直播循環
