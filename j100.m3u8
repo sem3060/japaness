@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1764181567/ei/3_EmaaWwGZqylu8P-_SmkQg/ip/135.232.216.52/id/Xn7YQxxC5R0.6/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-vgqsrnl6.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AdEuB5QEK_RGt_aBZvLga7l-dWokbgQd34ELz4W1Ez0pJbSTOITpKf73jqPi8irHggXuoJ0PLpGLKU0E/spc/6b0G_MSaj5j4TEfNXmhy/vprv/1/playlist_type/DVR/cps/0/met/1764159967,/mh/1p/mm/44/mn/sn-vgqsrnl6/ms/lva/mv/u/mvi/4/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968/mt/1764158786/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgVfZWlBj7377pqZ_-BQDJnT_t2Siala2qJQ-FLYCbu0ECIH9-_2rt0TsDxooARKAarB8qruyIUcNDARub0rsXhDyR/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMg8KRUS0dsxKbdkcaD2BK81XX0eT0Pso8iSyf1AkvRGAiEAuxgv-4mZbDd2r8e6gxwQ7tSGY-mi9cXsB8rxT4bMQMw%3D/playlist/index.m3u8
 EOL   
 
 #j101長野インターチェンジLIVEカメラ
