@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=25600000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1765228389/ei/Bes2adamD5fp0_wPhsWv0AE/ip/48.211.211.43/id/THy9p2xJSek.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr2---sn-p5qlsn6z.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AYUSA3C3a60qquj-4oj3ghPYpSux-wgccKHNKbN_MOTCSC-00gfQCgMlBpDebURaw7NQ668sixLTI-9F/spc/wH4Qq3WyOVstrY2SfeA2/vprv/1/playlist_type/DVR/met/1765206789,/mh/SB/mm/44/mn/sn-p5qlsn6z/ms/lva/mv/u/mvi/2/pl/18/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968/mt/1765206038/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgdiNeaDQ2GHHSMPXdNuXByjDXaVUAzlV45B46jV0Pkc4CIBH5pvmqPwWorH1cP_GNw50OE4OCaeU1pJY9uT6YGXM6/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAOYJckfg23hUqZM9Sz1E5UwBT93neBfMowlXg2nBFWKQAiAWWqLq33fvxUQzqr8r4nXrOUjCYjPkcAgbUpm4U23CUA%3D%3D/playlist/index.m3u8
 EOL 
 
 #j19鷲羽山情報カメラ(瀬戸大橋)
