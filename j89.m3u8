@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1765930842/ei/-qJBaeCTFN3OkucPx-nbmQI/ip/4.246.134.181/id/OV0JEv6C2QQ.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr42---sn-mi.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AYUSA3CW2MqS6yvoOTv0polWwl8kU-JUZC5zyIV44ejUhbjcc6QswjMdOa57NqPInVU-Cu-OIpRVEx9s/spc/wH4Qq6nwfeAbvE--zOBFTfhiAoUO-VjUVTC4JyGsZ46ZBuCNMV8VEloEBQ2Bjdxuvao/vprv/1/ns/HeoamSRo9wqDeTGqzBiOMEAR/playlist_type/DVR/initcwndbps/4180000/met/1765909242,/mh/Fj/mm/44/mn/sn-mi/ms/lva/mv/m/mvi/42/pl/17/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/n/3bkCIFBiTr8gjTgUMIN/mt/1765908286/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRgIhAJti6hmfUiNLthnUhEM0pPVirnYdB1ecYUGTcLNTG_YRAiEA4D_Y72JD94UZccvySvxC8i8k45yjL1FV6BeZnnweATM%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAMGoSewKrnCvLYxxa2dzehebNzEKJnagmjUQsXGNZaOFAiB59EH1WLEeztXhzeg4QyF3yE6gxq2PPssSUxLB60WDzw%3D%3D/playlist/index.m3u8
 EOL    
 
 #j90能登千里浜レストハウス（石川県）
