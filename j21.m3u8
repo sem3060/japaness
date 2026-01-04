@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1767572195/ei/g65aaZ_hHP-LsfIPu6Kt0A8/ip/68.220.62.241/id/dJZBqTeC-h8.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-qja5m5-5g.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AYUSA3DwDtrhMr3UxxucGkSEAa0JoBJKz_QRoyryeMkHp_s_m-malzBpGtT9_FWFtpQaQ7ZSVt7ExU5b/spc/wH4Qq-mbEInFitjpcAJ2Hi9tGFMC9XfNob_QCpZATWpq9B18_AN4uAYt7mi8ZDgINwQ/vprv/1/ns/C2VFEHMRSgZxy9maqfLiQWwR/playlist_type/DVR/cps/0/met/1767550595,/mh/_i/mm/44/mn/sn-qja5m5-5g/ms/lva/mv/u/mvi/1/pl/19/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565115,51565681,51580968/n/v0TboxbdkZiHjB-gCk/mt/1767549744/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,playlist_type/sig/AJfQdSswRQIgZ09MsqGy3q9u_Cx-d4dBq5qMRFgIqX3rOLD34bwcx6oCIQDCgPUXjYoSQBXCWTpIaJYMpWVUl9r9TfhRl7NT6VeYOA%3D%3D/lsparams/hls_chunk_host,cps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMOCDQralVvc638gRd8M0ACDB9ql4J89yLUrN4Jw4dTlAiEA-WwUE1HHnRxVLbIGpme4FhMwwWXKZxflRIlyuoioPdw%3D/playlist/index.m3u8
 EOL 
 
 #j22羽田空港 ライブカメラ
