@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1769020083/ei/UsZwaauJPJuHlu8PtpXJgA0/ip/172.184.213.177/id/Gn2CJjzY068.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-ojn4v5-5w.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AW-iu_pJEJPZdnCreeTIOWwKlTtKHuZ1yqXNOOz0UGgV3-Zf4edFWtvgWAhdtK3B_dyn61qVlLt7U3fA/spc/q5xjPIipSuSgfW2M_avPEv7KC-c4vgGqmLU-iFUyFN7doeOG1OnxlmXKh3Azsu6lyBkXqw/vprv/1/ns/X0cdXFmnbj6Gb1NlcPDpKt4S/playlist_type/DVR/met/1768998484,/mh/qx/mm/44/mn/sn-ojn4v5-5w/ms/lva/mv/u/mvi/1/pl/20/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968,51626155/n/ETFAjAgdQ-njrvEoEBZ/mt/1768996372/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,ns,playlist_type/sig/AJEij0EwRAIgUxutKXBWN84uWIrPJi7aeDQCugrq2Tz4YWPqw-tBPuwCIAF1DBGa-MzhkN1DVau-Db5X9Pdd2-nRwEpFOWuLnmMA/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgbj8Ra5wKd4bs-l4cr_UlMU9enX2DpT5THeCsqoCQA4MCIEHxN_gyQd2zkhlOIYLxUO7U5Yejw5hwqn-OUABHP-W8/playlist/index.m3u8
 EOL	
 
 #j35富士山ライブカメラ 朝霧高原 より
