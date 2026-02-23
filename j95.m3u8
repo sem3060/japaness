@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1771894236/ei/fKGcabG-DKvgkucPvYfTmQ4/ip/172.174.165.0/id/Iv2VUE_UhRQ.5/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr58---sn-4o.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-w9gRyvwEcjLMl_9fG_vQarW3SULzyEGgWokTR5aNNIL4lTF5IHcyJcofICDSqsxh2fg4c4Kryt/spc/6dlaFBHu6izK1yiy5DCF/vprv/1/playlist_type/DVR/initcwndbps/3250000/met/1771872636,/mh/IS/mm/44/mn/sn-4o/ms/lva/mv/m/mvi/58/pl/15/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565682,51580968/mt/1771872056/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,playlist_type/sig/AJEij0EwRQIgTFop6fY7O4ou4yAlSyenfRXt3wau4Bz-79A3gM1CjXUCIQCdheb8GaZnl4s1GQ6Ze-qpDkTH_FI2j2N3zb4wHI5keQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAMZ5cDoeL-G173WE5fICf8iTEKoMbkU6DaEPXwXE1Qt8AiEA51t48dayBWfVQTdYBdNZj1OgnxdcJ6LallAAKZWIDFs%3D/playlist/index.m3u8
 EOL   
 
 #j96信州・美ヶ原2034mのライブカメラ
